@@ -1,0 +1,2020 @@
+Dalvik/9.9 (Linux; Android 9; Google Build/Mi 119)
+
+Dalvik/29.29 (Linux; Android 10; OnePlus Build/P20 Pro29)
+
+Dalvik/95.95 (Linux; Android 8.0.0; Sony Build/Mate 20 Pro95)
+
+Dalvik/9.9 (Linux; Android 9; Huawei Build/SM-N975F9)
+
+Dalvik/32.32 (Linux; U; Android 9; Google Build/SM-G970F32)
+
+Dalvik/71.71 (Linux; Android 8.0.0; Xiaomi Build/HTC 1071)
+
+Dalvik/34.34 (Linux; Android 7.0; Huawei Build/Google Pixel 2 XL34)
+
+Dalvik/74.74 (Linux; U; Android 7.1.1; Samsung Build/SM-G920F74)
+
+Dalvik/73.73 (Linux; Android 10; OnePlus Build/Galaxy A5073)
+
+Dalvik/13.13 (Linux; Android 7.0; Huawei Build/Redmi Note 813)
+
+Dalvik/57.57 (Linux; Android 7.1.1; Google Build/Xperia 557)
+
+Dalvik/42.42 (Linux; Android 9; LG Build/SM-N970F42)
+
+Dalvik/22.22 (Linux; U; Android 11; OnePlus Build/Google Pixel 322)
+
+Dalvik/19.19 (Linux; Android 11; Huawei Build/OnePlus 819)
+
+Dalvik/35.35 (Linux; Android 11; OnePlus Build/SM-G960F35)
+
+Dalvik/66.66 (Linux; U; Android 10; OnePlus Build/LG V50 ThinQ66)
+
+Dalvik/87.87 (Linux; U; Android 8.0.0; Sony Build/SM-N980F87)
+
+Dalvik/24.24 (Linux; Android 11; LG Build/OnePlus 9 Pro24)
+
+Dalvik/94.94 (Linux; U; Android 9; Sony Build/Mate 20 Pro94)
+
+Dalvik/29.29 (Linux; Android 8.0.0; Xiaomi Build/HTC One M929)
+
+Dalvik/27.27 (Linux; Android 10; Samsung Build/SM-G960F27)
+
+Dalvik/53.53 (Linux; Android 9; OnePlus Build/LG V3053)
+
+Dalvik/43.43 (Linux; Android 7.1.1; Sony Build/OnePlus 743)
+
+Dalvik/82.82 (Linux; U; Android 7.1.1; HTC Build/OnePlus 782)
+
+Dalvik/13.13 (Linux; U; Android 11; LG Build/Mi 1113)
+
+Dalvik/24.24 (Linux; Android 8.1.0; Xiaomi Build/SM-G973F24)
+
+Dalvik/21.21 (Linux; U; Android 8.1.0; Huawei Build/Galaxy S2021)
+
+Dalvik/20.20 (Linux; U; Android 7.1.1; Sony Build/Galaxy A5120)
+
+Dalvik/70.70 (Linux; U; Android 8.0.0; Samsung Build/P20 Pro70)
+
+Dalvik/18.18 (Linux; U; Android 11; LG Build/OnePlus 718)
+
+Dalvik/36.36 (Linux; Android 11; LG Build/LG V40 ThinQ36)
+
+Dalvik/12.12 (Linux; Android 8.1.0; Sony Build/SM-N960F12)
+
+Dalvik/72.72 (Linux; U; Android 7.1.1; LG Build/HTC One M872)
+
+Dalvik/82.82 (Linux; U; Android 11; Samsung Build/HTC One M882)
+
+Dalvik/8.8 (Linux; U; Android 7.0; Sony Build/Pixel 28)
+
+Dalvik/83.83 (Linux; Android 7.1.1; HTC Build/Galaxy A7083)
+
+Dalvik/92.92 (Linux; Android 7.0; Xiaomi Build/Xperia 192)
+
+Dalvik/28.28 (Linux; Android 7.1.1; Sony Build/Xperia 528)
+
+Dalvik/25.25 (Linux; Android 7.0; Google Build/Xperia XZ125)
+
+Dalvik/92.92 (Linux; U; Android 7.0; OnePlus Build/Galaxy A5092)
+
+Dalvik/84.84 (Linux; Android 7.1.1; OnePlus Build/SM-G973F84)
+
+Dalvik/78.78 (Linux; Android 7.1.1; LG Build/LG G678)
+
+Dalvik/50.50 (Linux; Android 9; Xiaomi Build/LG V3050)
+
+Dalvik/62.62 (Linux; U; Android 10; Huawei Build/OnePlus 762)
+
+Dalvik/76.76 (Linux; Android 9; Google Build/OnePlus 9 Pro76)
+
+Dalvik/24.24 (Linux; Android 8.0.0; Huawei Build/Xperia XZ224)
+
+Dalvik/50.50 (Linux; Android 7.0; Sony Build/OnePlus 7T50)
+
+Dalvik/47.47 (Linux; Android 8.1.0; LG Build/HTC U1147)
+
+Dalvik/98.98 (Linux; U; Android 9; Huawei Build/SM-N960F98)
+
+Dalvik/22.22 (Linux; U; Android 11; LG Build/Redmi Note 1022)
+
+Dalvik/69.69 (Linux; Android 9; LG Build/OnePlus 769)
+
+Dalvik/56.56 (Linux; Android 7.0; HTC Build/Mi 1056)
+
+Dalvik/76.76 (Linux; Android 8.0.0; Sony Build/HTC One M876)
+
+Dalvik/38.38 (Linux; Android 8.0.0; LG Build/Mi 1138)
+
+Dalvik/31.31 (Linux; Android 11; OnePlus Build/Mate 40 Pro31)
+
+Dalvik/90.90 (Linux; U; Android 11; Xiaomi Build/Pixel 490)
+
+Dalvik/10.10 (Linux; Android 9; HTC Build/LG G610)
+
+Dalvik/53.53 (Linux; Android 7.0; Sony Build/SM-N975F53)
+
+Dalvik/7.7 (Linux; U; Android 7.0; Samsung Build/Galaxy A717)
+
+Dalvik/98.98 (Linux; Android 11; Xiaomi Build/Xperia 598)
+
+Dalvik/63.63 (Linux; U; Android 11; Xiaomi Build/Google Pixel 2 XL63)
+
+Dalvik/40.40 (Linux; U; Android 11; Xiaomi Build/OnePlus 9 Pro40)
+
+Dalvik/48.48 (Linux; Android 8.0.0; Xiaomi Build/Galaxy A5048)
+
+Dalvik/96.96 (Linux; U; Android 11; Xiaomi Build/Redmi Note 1096)
+
+Dalvik/95.95 (Linux; Android 7.0; LG Build/SM-N960F95)
+
+Dalvik/60.60 (Linux; Android 10; OnePlus Build/Nexus 560)
+
+Dalvik/13.13 (Linux; Android 7.1.1; Huawei Build/P30 Pro13)
+
+Dalvik/45.45 (Linux; U; Android 7.0; HTC Build/LG V3045)
+
+Dalvik/77.77 (Linux; U; Android 8.1.0; Sony Build/Pixel 277)
+
+Dalvik/43.43 (Linux; U; Android 11; HTC Build/SM-G973F43)
+
+Dalvik/13.13 (Linux; Android 8.0.0; LG Build/Xperia 113)
+
+Dalvik/83.83 (Linux; U; Android 8.0.0; OnePlus Build/SM-G920F83)
+
+Dalvik/62.62 (Linux; Android 8.0.0; Samsung Build/Pixel 462)
+
+Dalvik/18.18 (Linux; Android 8.0.0; Sony Build/SM-G970F18)
+
+Dalvik/9.9 (Linux; Android 10; Sony Build/OnePlus 89)
+
+Dalvik/89.89 (Linux; Android 11; Xiaomi Build/LG V50 ThinQ89)
+
+Dalvik/17.17 (Linux; Android 8.1.0; Huawei Build/OnePlus 7T17)
+
+Dalvik/6.6 (Linux; Android 7.1.1; Google Build/Xperia XZ16)
+
+Dalvik/51.51 (Linux; Android 8.0.0; Huawei Build/LG G651)
+
+Dalvik/51.51 (Linux; Android 7.1.1; OnePlus Build/Xperia XZ151)
+
+Dalvik/52.52 (Linux; U; Android 7.0; OnePlus Build/HTC U1152)
+
+Dalvik/21.21 (Linux; Android 7.0; Samsung Build/LG G621)
+
+Dalvik/33.33 (Linux; U; Android 7.0; Samsung Build/Xperia Z533)
+
+Dalvik/56.56 (Linux; Android 9; Google Build/Mi 1056)
+
+Dalvik/44.44 (Linux; U; Android 10; Xiaomi Build/Galaxy S1044)
+
+Dalvik/70.70 (Linux; U; Android 8.1.0; Xiaomi Build/Google Pixel 3 XL70)
+
+Dalvik/3.3 (Linux; Android 7.1.1; HTC Build/OnePlus 93)
+
+Dalvik/33.33 (Linux; Android 8.0.0; Xiaomi Build/Xperia 133)
+
+Dalvik/15.15 (Linux; U; Android 8.0.0; Sony Build/SM-N985F15)
+
+Dalvik/37.37 (Linux; U; Android 7.0; HTC Build/Mate 40 Pro37)
+
+Dalvik/49.49 (Linux; U; Android 7.1.1; Sony Build/OnePlus 849)
+
+Dalvik/1.1 (Linux; Android 8.0.0; Xiaomi Build/Galaxy A711)
+
+Dalvik/75.75 (Linux; U; Android 11; Huawei Build/Xperia XZ275)
+
+Dalvik/85.85 (Linux; Android 10; OnePlus Build/SM-G980F85)
+
+Dalvik/7.7 (Linux; Android 7.1.1; Samsung Build/SM-N960F7)
+
+Dalvik/92.92 (Linux; Android 11; Google Build/SM-N950F92)
+
+Dalvik/22.22 (Linux; U; Android 7.1.1; Huawei Build/SM-N970F22)
+
+Dalvik/84.84 (Linux; Android 8.0.0; Xiaomi Build/Nexus 584)
+
+Dalvik/62.62 (Linux; Android 8.1.0; Huawei Build/OnePlus 962)
+
+Dalvik/97.97 (Linux; U; Android 8.1.0; Sony Build/Google Pixel 3 XL97)
+
+Dalvik/41.41 (Linux; U; Android 7.1.1; Huawei Build/Redmi Note 941)
+
+Dalvik/12.12 (Linux; Android 10; LG Build/LG V40 ThinQ12)
+
+Dalvik/83.83 (Linux; U; Android 7.0; Xiaomi Build/SM-G970F83)
+
+Dalvik/1.1 (Linux; Android 8.0.0; Samsung Build/SM-G920F1)
+
+Dalvik/58.58 (Linux; U; Android 7.0; Google Build/SM-N975F58)
+
+Dalvik/28.28 (Linux; Android 9; LG Build/HTC One M828)
+
+Dalvik/17.17 (Linux; U; Android 8.1.0; LG Build/SM-G980F17)
+
+Dalvik/21.21 (Linux; U; Android 8.0.0; HTC Build/SM-G950F21)
+
+Dalvik/77.77 (Linux; Android 9; Google Build/Xperia XZ177)
+
+Dalvik/92.92 (Linux; Android 10; OnePlus Build/Mate 30 Pro92)
+
+Dalvik/11.11 (Linux; Android 8.1.0; Samsung Build/Nexus 511)
+
+Dalvik/36.36 (Linux; U; Android 11; Xiaomi Build/OnePlus 7T36)
+
+Dalvik/61.61 (Linux; Android 8.1.0; Sony Build/P20 Pro61)
+
+Dalvik/82.82 (Linux; Android 11; Samsung Build/LG G7 ThinQ82)
+
+Dalvik/22.22 (Linux; U; Android 8.0.0; Google Build/SM-G970F22)
+
+Dalvik/59.59 (Linux; U; Android 7.0; Samsung Build/HTC One M859)
+
+Dalvik/48.48 (Linux; U; Android 11; Xiaomi Build/Galaxy A9048)
+
+Dalvik/61.61 (Linux; Android 11; LG Build/LG G7 ThinQ61)
+
+Dalvik/63.63 (Linux; Android 8.1.0; HTC Build/SM-G980F63)
+
+Dalvik/17.17 (Linux; Android 9; HTC Build/Google Pixel17)
+
+Dalvik/79.79 (Linux; Android 8.0.0; LG Build/HTC U12+79)
+
+Dalvik/70.70 (Linux; Android 8.0.0; Samsung Build/LG G7 ThinQ70)
+
+Dalvik/75.75 (Linux; U; Android 9; Samsung Build/SM-N960F75)
+
+Dalvik/83.83 (Linux; Android 9; LG Build/Mate 20 Pro83)
+
+Dalvik/83.83 (Linux; U; Android 9; LG Build/Xperia 583)
+
+Dalvik/42.42 (Linux; Android 7.1.1; OnePlus Build/Pixel 242)
+
+Dalvik/23.23 (Linux; U; Android 7.1.1; OnePlus Build/Google Pixel23)
+
+Dalvik/82.82 (Linux; U; Android 8.0.0; OnePlus Build/Nexus 582)
+
+Dalvik/97.97 (Linux; Android 9; HTC Build/SM-G973F97)
+
+Dalvik/35.35 (Linux; U; Android 8.0.0; Google Build/Mate 40 Pro35)
+
+Dalvik/96.96 (Linux; Android 11; HTC Build/Redmi Note 996)
+
+Dalvik/76.76 (Linux; U; Android 7.1.1; Samsung Build/SM-G980F76)
+
+Dalvik/61.61 (Linux; U; Android 8.1.0; Google Build/Redmi Note 961)
+
+Dalvik/5.5 (Linux; U; Android 8.1.0; HTC Build/Galaxy A715)
+
+Dalvik/82.82 (Linux; U; Android 9; Google Build/LG G682)
+
+Dalvik/45.45 (Linux; U; Android 7.0; Sony Build/Galaxy A8045)
+
+Dalvik/26.26 (Linux; Android 7.0; Sony Build/HTC 1026)
+
+Dalvik/72.72 (Linux; Android 10; OnePlus Build/Nexus 572)
+
+Dalvik/75.75 (Linux; Android 7.0; Google Build/Mate 30 Pro75)
+
+Dalvik/31.31 (Linux; Android 8.0.0; Sony Build/Galaxy A7031)
+
+Dalvik/27.27 (Linux; Android 8.1.0; Huawei Build/Xperia XZ227)
+
+Dalvik/69.69 (Linux; U; Android 7.1.1; Xiaomi Build/P30 Pro69)
+
+Dalvik/65.65 (Linux; Android 9; LG Build/Xperia XZ365)
+
+Dalvik/66.66 (Linux; U; Android 8.0.0; Xiaomi Build/Galaxy A5066)
+
+Dalvik/37.37 (Linux; Android 8.1.0; Xiaomi Build/SM-G980F37)
+
+Dalvik/45.45 (Linux; U; Android 7.1.1; Xiaomi Build/Galaxy A5045)
+
+Dalvik/60.60 (Linux; U; Android 9; HTC Build/Redmi Note 960)
+
+Dalvik/39.39 (Linux; Android 9; OnePlus Build/Xperia Z539)
+
+Dalvik/17.17 (Linux; U; Android 8.0.0; Xiaomi Build/HTC U1117)
+
+Dalvik/15.15 (Linux; U; Android 11; LG Build/P20 Pro15)
+
+Dalvik/15.15 (Linux; U; Android 7.1.1; LG Build/Pixel 415)
+
+Dalvik/60.60 (Linux; Android 8.1.0; Samsung Build/SM-G975F60)
+
+Dalvik/88.88 (Linux; Android 8.0.0; LG Build/HTC One M988)
+
+Dalvik/47.47 (Linux; Android 7.0; HTC Build/HTC U1147)
+
+Dalvik/85.85 (Linux; Android 9; OnePlus Build/SM-G980F85)
+
+Dalvik/60.60 (Linux; Android 8.0.0; HTC Build/SM-G973F60)
+
+Dalvik/45.45 (Linux; U; Android 11; Google Build/SM-G950F45)
+
+Dalvik/4.4 (Linux; Android 8.1.0; Samsung Build/Galaxy A504)
+
+Dalvik/18.18 (Linux; U; Android 8.1.0; Huawei Build/Galaxy S1018)
+
+Dalvik/91.91 (Linux; U; Android 8.0.0; Google Build/Nexus 6P91)
+
+Dalvik/69.69 (Linux; U; Android 8.1.0; Huawei Build/OnePlus 869)
+
+Dalvik/3.3 (Linux; U; Android 7.1.1; Google Build/Google Pixel XL3)
+
+Dalvik/76.76 (Linux; U; Android 8.1.0; Sony Build/Pixel 476)
+
+Dalvik/26.26 (Linux; Android 9; Huawei Build/HTC U12+26)
+
+Dalvik/66.66 (Linux; U; Android 11; OnePlus Build/SM-G950F66)
+
+Dalvik/45.45 (Linux; Android 11; Huawei Build/HTC 1045)
+
+Dalvik/23.23 (Linux; Android 11; HTC Build/Mi 1123)
+
+Dalvik/4.4 (Linux; U; Android 10; HTC Build/Redmi Note 84)
+
+Dalvik/51.51 (Linux; U; Android 10; Xiaomi Build/LG V3051)
+
+Dalvik/68.68 (Linux; Android 9; HTC Build/Xperia XZ168)
+
+Dalvik/56.56 (Linux; U; Android 11; HTC Build/Xperia 156)
+
+Dalvik/20.20 (Linux; U; Android 7.1.1; Xiaomi Build/Xperia 520)
+
+Dalvik/76.76 (Linux; U; Android 8.1.0; LG Build/LG G7 ThinQ76)
+
+Dalvik/27.27 (Linux; U; Android 9; Sony Build/Google Pixel 3 XL27)
+
+Dalvik/52.52 (Linux; U; Android 8.0.0; Xiaomi Build/OnePlus 752)
+
+Dalvik/6.6 (Linux; Android 8.1.0; OnePlus Build/Google Pixel 3 XL6)
+
+Dalvik/28.28 (Linux; U; Android 8.0.0; OnePlus Build/Pixel 428)
+
+Dalvik/26.26 (Linux; Android 10; Huawei Build/Galaxy A5026)
+
+Dalvik/68.68 (Linux; Android 8.0.0; Xiaomi Build/SM-G973F68)
+
+Dalvik/58.58 (Linux; Android 8.1.0; HTC Build/SM-G975F58)
+
+Dalvik/41.41 (Linux; U; Android 7.1.1; Samsung Build/Mi 941)
+
+Dalvik/69.69 (Linux; U; Android 11; Huawei Build/SM-N950F69)
+
+Dalvik/5.5 (Linux; U; Android 11; OnePlus Build/OnePlus 95)
+
+Dalvik/54.54 (Linux; U; Android 7.0; Huawei Build/LG G654)
+
+Dalvik/55.55 (Linux; Android 10; Samsung Build/SM-N970F55)
+
+Dalvik/9.9 (Linux; Android 10; HTC Build/SM-N970F9)
+
+Dalvik/26.26 (Linux; U; Android 9; Sony Build/Nexus 526)
+
+Dalvik/17.17 (Linux; U; Android 9; OnePlus Build/SM-N985F17)
+
+Dalvik/24.24 (Linux; Android 7.1.1; Google Build/Xperia XZ224)
+
+Dalvik/91.91 (Linux; U; Android 11; Sony Build/LG V3091)
+
+Dalvik/16.16 (Linux; Android 9; Huawei Build/Mate 40 Pro16)
+
+Dalvik/79.79 (Linux; Android 9; Samsung Build/SM-G970F79)
+
+Dalvik/47.47 (Linux; U; Android 7.0; Samsung Build/LG V3047)
+
+Dalvik/37.37 (Linux; Android 7.1.1; Samsung Build/Galaxy A9037)
+
+Dalvik/93.93 (Linux; Android 7.1.1; OnePlus Build/OnePlus 993)
+
+Dalvik/97.97 (Linux; U; Android 9; Google Build/HTC One M997)
+
+Dalvik/59.59 (Linux; Android 9; Google Build/SM-G920F59)
+
+Dalvik/64.64 (Linux; Android 9; Sony Build/Mate 20 Pro64)
+
+Dalvik/26.26 (Linux; U; Android 11; HTC Build/Galaxy A7026)
+
+Dalvik/79.79 (Linux; Android 7.0; HTC Build/HTC U1179)
+
+Dalvik/18.18 (Linux; U; Android 10; LG Build/Pixel 418)
+
+Dalvik/15.15 (Linux; U; Android 8.1.0; Samsung Build/Redmi Note 915)
+
+Dalvik/85.85 (Linux; Android 7.0; Sony Build/Google Pixel 2 XL85)
+
+Dalvik/34.34 (Linux; Android 11; Huawei Build/Galaxy A7134)
+
+Dalvik/63.63 (Linux; U; Android 8.0.0; Sony Build/Google Pixel 3 XL63)
+
+Dalvik/66.66 (Linux; U; Android 9; LG Build/SM-N980F66)
+
+Dalvik/39.39 (Linux; Android 7.0; Google Build/Google Pixel39)
+
+Dalvik/52.52 (Linux; Android 10; Samsung Build/P20 Pro52)
+
+Dalvik/72.72 (Linux; Android 7.1.1; Xiaomi Build/Pixel 472)
+
+Dalvik/46.46 (Linux; U; Android 7.1.1; LG Build/OnePlus 846)
+
+Dalvik/38.38 (Linux; Android 9; Google Build/Google Pixel 338)
+
+Dalvik/89.89 (Linux; Android 8.0.0; Sony Build/Xperia 189)
+
+Dalvik/43.43 (Linux; Android 9; Google Build/SM-N975F43)
+
+Dalvik/78.78 (Linux; Android 7.0; LG Build/HTC U1178)
+
+Dalvik/65.65 (Linux; Android 8.0.0; LG Build/HTC U1165)
+
+Dalvik/87.87 (Linux; U; Android 7.0; HTC Build/OnePlus 787)
+
+Dalvik/25.25 (Linux; U; Android 11; Sony Build/Mate 30 Pro25)
+
+Dalvik/33.33 (Linux; Android 8.0.0; Xiaomi Build/OnePlus 833)
+
+Dalvik/61.61 (Linux; Android 8.0.0; Xiaomi Build/SM-G980F61)
+
+Dalvik/47.47 (Linux; Android 8.1.0; Sony Build/LG G647)
+
+Dalvik/23.23 (Linux; Android 10; HTC Build/Google Pixel XL23)
+
+Dalvik/49.49 (Linux; U; Android 10; HTC Build/Galaxy A9049)
+
+Dalvik/18.18 (Linux; U; Android 8.1.0; Huawei Build/Xperia XZ318)
+
+Dalvik/81.81 (Linux; Android 10; Xiaomi Build/HTC U12+81)
+
+Dalvik/60.60 (Linux; U; Android 11; Samsung Build/SM-G920F60)
+
+Dalvik/59.59 (Linux; U; Android 9; Sony Build/Galaxy A7059)
+
+Dalvik/53.53 (Linux; U; Android 9; Huawei Build/OnePlus 8T53)
+
+Dalvik/68.68 (Linux; U; Android 8.1.0; LG Build/Redmi Note 1068)
+
+Dalvik/63.63 (Linux; U; Android 8.1.0; LG Build/Xperia 163)
+
+Dalvik/89.89 (Linux; Android 11; LG Build/HTC U1189)
+
+Dalvik/80.80 (Linux; Android 7.1.1; Samsung Build/HTC U1180)
+
+Dalvik/26.26 (Linux; Android 8.0.0; Samsung Build/OnePlus 7T26)
+
+Dalvik/36.36 (Linux; Android 8.0.0; Huawei Build/Galaxy A9036)
+
+Dalvik/93.93 (Linux; U; Android 8.0.0; Sony Build/Xperia Z593)
+
+Dalvik/48.48 (Linux; Android 7.0; HTC Build/Nexus 6P48)
+
+Dalvik/59.59 (Linux; U; Android 11; Sony Build/HTC U12+59)
+
+Dalvik/89.89 (Linux; U; Android 9; Huawei Build/Galaxy A5089)
+
+Dalvik/68.68 (Linux; U; Android 7.0; Huawei Build/LG G7 ThinQ68)
+
+Dalvik/18.18 (Linux; U; Android 8.0.0; OnePlus Build/Xperia 518)
+
+Dalvik/27.27 (Linux; Android 8.1.0; Google Build/Galaxy S2027)
+
+Dalvik/68.68 (Linux; Android 8.0.0; Google Build/SM-G950F68)
+
+Dalvik/54.54 (Linux; Android 8.1.0; Samsung Build/P30 Pro54)
+
+Dalvik/54.54 (Linux; U; Android 11; Xiaomi Build/Galaxy S1054)
+
+Dalvik/17.17 (Linux; Android 9; Huawei Build/Nexus 517)
+
+Dalvik/85.85 (Linux; U; Android 7.0; Xiaomi Build/Pixel 285)
+
+Dalvik/48.48 (Linux; Android 8.0.0; Huawei Build/Redmi Note 848)
+
+Dalvik/89.89 (Linux; U; Android 10; LG Build/SM-N985F89)
+
+Dalvik/12.12 (Linux; U; Android 8.0.0; Huawei Build/Mi 912)
+
+Dalvik/11.11 (Linux; U; Android 7.0; Samsung Build/Google Pixel XL11)
+
+Dalvik/32.32 (Linux; U; Android 8.1.0; Samsung Build/Xperia XZ332)
+
+Dalvik/54.54 (Linux; Android 9; Huawei Build/Mate 40 Pro54)
+
+Dalvik/79.79 (Linux; Android 11; Huawei Build/Mi 1079)
+
+Dalvik/43.43 (Linux; U; Android 7.1.1; Sony Build/OnePlus 7T43)
+
+Dalvik/72.72 (Linux; Android 7.0; LG Build/SM-N970F72)
+
+Dalvik/91.91 (Linux; Android 9; Samsung Build/Google Pixel XL91)
+
+Dalvik/92.92 (Linux; U; Android 8.0.0; Samsung Build/SM-N975F92)
+
+Dalvik/90.90 (Linux; Android 7.0; Google Build/HTC U12+90)
+
+Dalvik/56.56 (Linux; Android 9; Samsung Build/Galaxy A9056)
+
+Dalvik/3.3 (Linux; Android 8.1.0; Huawei Build/Mate 20 Pro3)
+
+Dalvik/70.70 (Linux; Android 7.0; Huawei Build/Mate 20 Pro70)
+
+Dalvik/23.23 (Linux; Android 11; HTC Build/Mate 20 Pro23)
+
+Dalvik/25.25 (Linux; U; Android 7.1.1; HTC Build/LG V3025)
+
+Dalvik/68.68 (Linux; Android 11; Samsung Build/LG G668)
+
+Dalvik/64.64 (Linux; Android 8.0.0; OnePlus Build/Galaxy A5164)
+
+Dalvik/83.83 (Linux; U; Android 9; Samsung Build/OnePlus 8T83)
+
+Dalvik/42.42 (Linux; Android 11; Samsung Build/SM-G950F42)
+
+Dalvik/70.70 (Linux; U; Android 8.0.0; Google Build/Mate 40 Pro70)
+
+Dalvik/50.50 (Linux; U; Android 11; Google Build/LG V50 ThinQ50)
+
+Dalvik/26.26 (Linux; U; Android 11; OnePlus Build/LG G626)
+
+Dalvik/86.86 (Linux; U; Android 11; Xiaomi Build/P30 Pro86)
+
+Dalvik/75.75 (Linux; U; Android 8.1.0; Huawei Build/LG V40 ThinQ75)
+
+Dalvik/39.39 (Linux; U; Android 9; OnePlus Build/OnePlus 839)
+
+Dalvik/81.81 (Linux; Android 10; Google Build/Galaxy S2081)
+
+Dalvik/60.60 (Linux; Android 9; HTC Build/LG V3060)
+
+Dalvik/30.30 (Linux; U; Android 7.0; Xiaomi Build/Google Pixel 330)
+
+Dalvik/23.23 (Linux; U; Android 10; Samsung Build/Nexus 6P23)
+
+Dalvik/7.7 (Linux; Android 10; Xiaomi Build/Redmi Note 87)
+
+Dalvik/29.29 (Linux; Android 7.0; Xiaomi Build/SM-N985F29)
+
+Dalvik/39.39 (Linux; U; Android 11; Huawei Build/SM-N980F39)
+
+Dalvik/65.65 (Linux; Android 7.1.1; OnePlus Build/OnePlus 965)
+
+Dalvik/2.2 (Linux; U; Android 7.1.1; Sony Build/Nexus 6P2)
+
+Dalvik/57.57 (Linux; Android 11; HTC Build/Redmi Note 857)
+
+Dalvik/72.72 (Linux; Android 7.1.1; OnePlus Build/Galaxy S2072)
+
+Dalvik/15.15 (Linux; U; Android 8.0.0; LG Build/SM-G920F15)
+
+Dalvik/84.84 (Linux; U; Android 8.0.0; Xiaomi Build/Mate 20 Pro84)
+
+Dalvik/39.39 (Linux; U; Android 10; Xiaomi Build/Galaxy S2039)
+
+Dalvik/56.56 (Linux; Android 11; Google Build/P20 Pro56)
+
+Dalvik/80.80 (Linux; Android 11; Sony Build/Xperia XZ280)
+
+Dalvik/71.71 (Linux; Android 8.0.0; LG Build/Galaxy A5171)
+
+Dalvik/41.41 (Linux; Android 7.1.1; HTC Build/Galaxy A7141)
+
+Dalvik/68.68 (Linux; U; Android 8.1.0; Huawei Build/Pixel 468)
+
+Dalvik/7.7 (Linux; Android 8.1.0; LG Build/OnePlus 9 Pro7)
+
+Dalvik/46.46 (Linux; Android 9; Google Build/Mate 20 Pro46)
+
+Dalvik/53.53 (Linux; U; Android 9; OnePlus Build/SM-G950F53)
+
+Dalvik/63.63 (Linux; U; Android 8.0.0; Samsung Build/SM-G970F63)
+
+Dalvik/77.77 (Linux; Android 10; LG Build/SM-N980F77)
+
+Dalvik/16.16 (Linux; U; Android 7.1.1; Google Build/LG V50 ThinQ16)
+
+Dalvik/45.45 (Linux; U; Android 7.1.1; Xiaomi Build/SM-G960F45)
+
+Dalvik/26.26 (Linux; Android 8.1.0; HTC Build/SM-G960F26)
+
+Dalvik/30.30 (Linux; Android 10; Huawei Build/OnePlus 730)
+
+Dalvik/49.49 (Linux; Android 7.1.1; Huawei Build/HTC U1149)
+
+Dalvik/60.60 (Linux; Android 11; HTC Build/Pixel 260)
+
+Dalvik/75.75 (Linux; U; Android 8.0.0; Xiaomi Build/LG G7 ThinQ75)
+
+Dalvik/59.59 (Linux; U; Android 7.0; Sony Build/Galaxy S1059)
+
+Dalvik/74.74 (Linux; Android 7.1.1; Google Build/Google Pixel 2 XL74)
+
+Dalvik/6.6 (Linux; U; Android 11; Xiaomi Build/SM-N985F6)
+
+Dalvik/22.22 (Linux; Android 8.0.0; Samsung Build/Google Pixel 3 XL22)
+
+Dalvik/15.15 (Linux; U; Android 11; Sony Build/Nexus 6P15)
+
+Dalvik/55.55 (Linux; U; Android 10; Samsung Build/HTC U1155)
+
+Dalvik/45.45 (Linux; U; Android 9; LG Build/Xperia 545)
+
+Dalvik/42.42 (Linux; Android 8.1.0; Xiaomi Build/Galaxy A5042)
+
+Dalvik/86.86 (Linux; U; Android 7.1.1; LG Build/Google Pixel 2 XL86)
+
+Dalvik/82.82 (Linux; Android 8.0.0; Google Build/Redmi Note 882)
+
+Dalvik/7.7 (Linux; Android 7.0; OnePlus Build/Xperia 57)
+
+Dalvik/82.82 (Linux; Android 10; Samsung Build/SM-N980F82)
+
+Dalvik/27.27 (Linux; U; Android 7.0; Huawei Build/Galaxy S1027)
+
+Dalvik/18.18 (Linux; Android 8.1.0; Xiaomi Build/Google Pixel18)
+
+Dalvik/19.19 (Linux; Android 7.0; Google Build/Xperia XZ119)
+
+Dalvik/55.55 (Linux; Android 8.1.0; Huawei Build/Pixel 255)
+
+Dalvik/23.23 (Linux; U; Android 9; HTC Build/Xperia XZ123)
+
+Dalvik/36.36 (Linux; U; Android 8.1.0; LG Build/Redmi Note 836)
+
+Dalvik/58.58 (Linux; Android 9; HTC Build/Pixel 458)
+
+Dalvik/39.39 (Linux; U; Android 11; Samsung Build/SM-N985F39)
+
+Dalvik/54.54 (Linux; U; Android 11; OnePlus Build/SM-G973F54)
+
+Dalvik/6.6 (Linux; Android 9; Google Build/Galaxy A906)
+
+Dalvik/69.69 (Linux; Android 7.1.1; Google Build/SM-G950F69)
+
+Dalvik/93.93 (Linux; U; Android 10; Samsung Build/LG G7 ThinQ93)
+
+Dalvik/55.55 (Linux; U; Android 10; Samsung Build/Google Pixel 2 XL55)
+
+Dalvik/32.32 (Linux; U; Android 7.0; Sony Build/Google Pixel 3 XL32)
+
+Dalvik/74.74 (Linux; Android 11; Xiaomi Build/SM-G950F74)
+
+Dalvik/19.19 (Linux; U; Android 11; Google Build/OnePlus 7T19)
+
+Dalvik/11.11 (Linux; U; Android 8.0.0; Google Build/Redmi Note 911)
+
+Dalvik/89.89 (Linux; U; Android 9; Google Build/Google Pixel 2 XL89)
+
+Dalvik/46.46 (Linux; Android 7.1.1; LG Build/Galaxy A5046)
+
+Dalvik/96.96 (Linux; U; Android 8.1.0; Sony Build/Xperia XZ296)
+
+Dalvik/42.42 (Linux; U; Android 8.0.0; Samsung Build/Galaxy S1042)
+
+Dalvik/53.53 (Linux; Android 11; Huawei Build/Redmi Note 953)
+
+Dalvik/68.68 (Linux; Android 7.0; Samsung Build/Xperia XZ368)
+
+Dalvik/82.82 (Linux; Android 8.1.0; Huawei Build/Galaxy A7082)
+
+Dalvik/83.83 (Linux; Android 8.0.0; LG Build/Nexus 6P83)
+
+Dalvik/38.38 (Linux; Android 7.1.1; Google Build/OnePlus 8T38)
+
+Dalvik/35.35 (Linux; U; Android 8.0.0; Xiaomi Build/Xperia Z535)
+
+Dalvik/97.97 (Linux; Android 7.1.1; LG Build/SM-G920F97)
+
+Dalvik/37.37 (Linux; U; Android 11; Samsung Build/Redmi Note 937)
+
+Dalvik/1.1 (Linux; Android 10; HTC Build/SM-G950F1)
+
+Dalvik/76.76 (Linux; Android 9; Sony Build/SM-N960F76)
+
+Dalvik/5.5 (Linux; Android 8.0.0; HTC Build/SM-G970F5)
+
+Dalvik/47.47 (Linux; Android 8.0.0; HTC Build/Nexus 547)
+
+Dalvik/88.88 (Linux; Android 8.1.0; Xiaomi Build/SM-G920F88)
+
+Dalvik/90.90 (Linux; U; Android 8.0.0; Huawei Build/OnePlus 7T90)
+
+Dalvik/16.16 (Linux; Android 11; Huawei Build/LG V50 ThinQ16)
+
+Dalvik/34.34 (Linux; Android 9; LG Build/SM-N970F34)
+
+Dalvik/26.26 (Linux; U; Android 9; Xiaomi Build/SM-N950F26)
+
+Dalvik/67.67 (Linux; U; Android 7.1.1; OnePlus Build/Nexus 6P67)
+
+Dalvik/60.60 (Linux; U; Android 8.1.0; Xiaomi Build/Xperia XZ360)
+
+Dalvik/66.66 (Linux; U; Android 9; Sony Build/Mi 1066)
+
+Dalvik/23.23 (Linux; Android 9; LG Build/Pixel 223)
+
+Dalvik/16.16 (Linux; U; Android 8.0.0; Google Build/SM-G960F16)
+
+Dalvik/16.16 (Linux; Android 10; HTC Build/Galaxy A9016)
+
+Dalvik/25.25 (Linux; U; Android 8.0.0; Sony Build/Mi 1125)
+
+Dalvik/65.65 (Linux; Android 10; Samsung Build/Nexus 6P65)
+
+Dalvik/70.70 (Linux; U; Android 8.0.0; Google Build/Google Pixel 3 XL70)
+
+Dalvik/9.9 (Linux; U; Android 8.1.0; OnePlus Build/HTC One M99)
+
+Dalvik/96.96 (Linux; Android 7.0; Sony Build/SM-G950F96)
+
+Dalvik/38.38 (Linux; U; Android 9; Google Build/SM-N970F38)
+
+Dalvik/42.42 (Linux; U; Android 8.0.0; Xiaomi Build/LG V40 ThinQ42)
+
+Dalvik/3.3 (Linux; U; Android 11; Samsung Build/Galaxy A703)
+
+Dalvik/5.5 (Linux; U; Android 11; OnePlus Build/HTC One M85)
+
+Dalvik/7.7 (Linux; U; Android 9; HTC Build/SM-N960F7)
+
+Dalvik/83.83 (Linux; Android 11; Huawei Build/LG V40 ThinQ83)
+
+Dalvik/99.99 (Linux; U; Android 8.1.0; HTC Build/Pixel 499)
+
+Dalvik/92.92 (Linux; Android 9; LG Build/Google Pixel92)
+
+Dalvik/61.61 (Linux; Android 11; Huawei Build/Redmi Note 961)
+
+Dalvik/85.85 (Linux; Android 8.1.0; Samsung Build/LG G7 ThinQ85)
+
+Dalvik/77.77 (Linux; U; Android 11; Huawei Build/LG G677)
+
+Dalvik/70.70 (Linux; Android 9; Sony Build/SM-N985F70)
+
+Dalvik/79.79 (Linux; U; Android 8.1.0; Samsung Build/SM-N980F79)
+
+Dalvik/94.94 (Linux; Android 11; Xiaomi Build/OnePlus 8T94)
+
+Dalvik/69.69 (Linux; U; Android 8.0.0; LG Build/Google Pixel69)
+
+Dalvik/24.24 (Linux; Android 8.1.0; Xiaomi Build/SM-G980F24)
+
+Dalvik/13.13 (Linux; U; Android 7.1.1; Sony Build/OnePlus 9 Pro13)
+
+Dalvik/35.35 (Linux; Android 7.0; OnePlus Build/Xperia XZ235)
+
+Dalvik/3.3 (Linux; U; Android 7.1.1; Samsung Build/OnePlus 93)
+
+Dalvik/20.20 (Linux; Android 11; Xiaomi Build/Xperia 120)
+
+Dalvik/67.67 (Linux; U; Android 8.0.0; Sony Build/Xperia XZ267)
+
+Dalvik/87.87 (Linux; Android 7.1.1; HTC Build/SM-G975F87)
+
+Dalvik/44.44 (Linux; Android 8.0.0; LG Build/OnePlus 7T44)
+
+Dalvik/29.29 (Linux; Android 11; Samsung Build/SM-G975F29)
+
+Dalvik/85.85 (Linux; Android 9; Google Build/Galaxy A7185)
+
+Dalvik/86.86 (Linux; Android 7.0; Samsung Build/SM-G980F86)
+
+Dalvik/48.48 (Linux; U; Android 7.0; OnePlus Build/OnePlus 7T48)
+
+Dalvik/50.50 (Linux; U; Android 8.1.0; Google Build/SM-G960F50)
+
+Dalvik/19.19 (Linux; U; Android 10; Samsung Build/Galaxy A7119)
+
+Dalvik/17.17 (Linux; U; Android 11; LG Build/Galaxy A7017)
+
+Dalvik/53.53 (Linux; Android 8.1.0; OnePlus Build/Mate 20 Pro53)
+
+Dalvik/58.58 (Linux; U; Android 9; Huawei Build/Nexus 558)
+
+Dalvik/74.74 (Linux; Android 7.1.1; Xiaomi Build/Mi 1174)
+
+Dalvik/59.59 (Linux; U; Android 9; HTC Build/OnePlus 859)
+
+Dalvik/24.24 (Linux; Android 7.0; OnePlus Build/Xperia XZ224)
+
+Dalvik/25.25 (Linux; U; Android 8.0.0; LG Build/Galaxy A5125)
+
+Dalvik/27.27 (Linux; Android 10; Sony Build/OnePlus 7T27)
+
+Dalvik/32.32 (Linux; U; Android 10; OnePlus Build/LG V40 ThinQ32)
+
+Dalvik/48.48 (Linux; U; Android 7.0; Sony Build/Redmi Note 848)
+
+Dalvik/17.17 (Linux; U; Android 7.1.1; OnePlus Build/Mi 917)
+
+Dalvik/23.23 (Linux; U; Android 8.1.0; Samsung Build/HTC 1023)
+
+Dalvik/75.75 (Linux; U; Android 11; Sony Build/Mi 1075)
+
+Dalvik/80.80 (Linux; U; Android 7.1.1; OnePlus Build/LG V3080)
+
+Dalvik/22.22 (Linux; Android 9; OnePlus Build/Xperia XZ322)
+
+Dalvik/59.59 (Linux; U; Android 7.1.1; Huawei Build/HTC U12+59)
+
+Dalvik/62.62 (Linux; U; Android 7.1.1; Xiaomi Build/HTC U1162)
+
+Dalvik/33.33 (Linux; U; Android 7.1.1; Xiaomi Build/Pixel 433)
+
+Dalvik/99.99 (Linux; U; Android 9; Sony Build/OnePlus 9 Pro99)
+
+Dalvik/65.65 (Linux; Android 9; Google Build/Redmi Note 1065)
+
+Dalvik/53.53 (Linux; U; Android 8.0.0; LG Build/OnePlus 853)
+
+Dalvik/21.21 (Linux; U; Android 8.0.0; Xiaomi Build/Mate 30 Pro21)
+
+Dalvik/22.22 (Linux; U; Android 10; HTC Build/Redmi Note 922)
+
+Dalvik/16.16 (Linux; Android 7.1.1; Xiaomi Build/SM-N950F16)
+
+Dalvik/54.54 (Linux; U; Android 8.1.0; Sony Build/Xperia XZ354)
+
+Dalvik/73.73 (Linux; U; Android 8.1.0; OnePlus Build/HTC 1073)
+
+Dalvik/73.73 (Linux; Android 10; OnePlus Build/Galaxy A7073)
+
+Dalvik/25.25 (Linux; U; Android 7.1.1; HTC Build/Xperia XZ125)
+
+Dalvik/29.29 (Linux; Android 11; Google Build/Galaxy S1029)
+
+Dalvik/71.71 (Linux; U; Android 8.0.0; OnePlus Build/OnePlus 9 Pro71)
+
+Dalvik/10.10 (Linux; Android 10; Google Build/OnePlus 7T10)
+
+Dalvik/75.75 (Linux; U; Android 8.0.0; LG Build/Mi 1175)
+
+Dalvik/34.34 (Linux; U; Android 10; Xiaomi Build/HTC 1034)
+
+Dalvik/43.43 (Linux; U; Android 9; HTC Build/Xperia XZ143)
+
+Dalvik/83.83 (Linux; Android 8.0.0; Samsung Build/LG V40 ThinQ83)
+
+Dalvik/86.86 (Linux; Android 7.1.1; Huawei Build/Mi 1186)
+
+Dalvik/71.71 (Linux; Android 9; Huawei Build/SM-N950F71)
+
+Dalvik/96.96 (Linux; Android 7.0; LG Build/Redmi Note 1096)
+
+Dalvik/73.73 (Linux; Android 7.0; Xiaomi Build/SM-G970F73)
+
+Dalvik/79.79 (Linux; Android 7.1.1; Google Build/OnePlus 8T79)
+
+Dalvik/19.19 (Linux; Android 7.0; Samsung Build/HTC 1019)
+
+Dalvik/64.64 (Linux; U; Android 8.1.0; Sony Build/Xperia XZ364)
+
+Dalvik/7.7 (Linux; Android 8.1.0; HTC Build/Galaxy A717)
+
+Dalvik/9.9 (Linux; Android 11; Sony Build/Mate 30 Pro9)
+
+Dalvik/6.6 (Linux; U; Android 7.1.1; OnePlus Build/SM-N950F6)
+
+Dalvik/99.99 (Linux; U; Android 8.0.0; Sony Build/SM-N960F99)
+
+Dalvik/77.77 (Linux; U; Android 7.0; Samsung Build/OnePlus 977)
+
+Dalvik/30.30 (Linux; Android 8.0.0; LG Build/Galaxy A5130)
+
+Dalvik/27.27 (Linux; U; Android 9; Google Build/P20 Pro27)
+
+Dalvik/85.85 (Linux; U; Android 8.0.0; Huawei Build/OnePlus 8T85)
+
+Dalvik/30.30 (Linux; Android 8.1.0; Sony Build/Google Pixel 3 XL30)
+
+Dalvik/90.90 (Linux; Android 10; HTC Build/Galaxy A7190)
+
+Dalvik/88.88 (Linux; Android 8.0.0; Sony Build/Xperia XZ188)
+
+Dalvik/63.63 (Linux; Android 11; Google Build/SM-N985F63)
+
+Dalvik/53.53 (Linux; Android 9; Sony Build/Mi 1053)
+
+Dalvik/96.96 (Linux; Android 9; Huawei Build/Google Pixel96)
+
+Dalvik/98.98 (Linux; Android 8.0.0; OnePlus Build/SM-N975F98)
+
+Dalvik/75.75 (Linux; U; Android 7.0; HTC Build/LG G675)
+
+Dalvik/25.25 (Linux; U; Android 8.0.0; HTC Build/OnePlus 825)
+
+Dalvik/57.57 (Linux; U; Android 11; HTC Build/Xperia Z557)
+
+Dalvik/54.54 (Linux; U; Android 8.1.0; Huawei Build/SM-G975F54)
+
+Dalvik/32.32 (Linux; Android 11; Huawei Build/Mi 932)
+
+Dalvik/25.25 (Linux; U; Android 8.0.0; Samsung Build/LG V3025)
+
+Dalvik/62.62 (Linux; U; Android 8.1.0; OnePlus Build/Redmi Note 962)
+
+Dalvik/32.32 (Linux; U; Android 7.0; Sony Build/Pixel 432)
+
+Dalvik/48.48 (Linux; Android 11; HTC Build/Xperia XZ348)
+
+Dalvik/81.81 (Linux; U; Android 8.1.0; HTC Build/Galaxy S2081)
+
+Dalvik/6.6 (Linux; Android 8.0.0; Sony Build/Nexus 6P6)
+
+Dalvik/61.61 (Linux; Android 11; Samsung Build/HTC U1161)
+
+Dalvik/45.45 (Linux; Android 9; HTC Build/Mate 40 Pro45)
+
+Dalvik/71.71 (Linux; U; Android 9; Samsung Build/SM-G960F71)
+
+Dalvik/67.67 (Linux; Android 9; Huawei Build/LG G667)
+
+Dalvik/62.62 (Linux; Android 8.1.0; Huawei Build/Galaxy S1062)
+
+Dalvik/81.81 (Linux; U; Android 9; Google Build/Google Pixel 381)
+
+Dalvik/78.78 (Linux; U; Android 7.0; Xiaomi Build/OnePlus 8T78)
+
+Dalvik/1.1 (Linux; U; Android 10; Sony Build/SM-N975F1)
+
+Dalvik/32.32 (Linux; Android 9; Huawei Build/SM-G973F32)
+
+Dalvik/61.61 (Linux; Android 9; Xiaomi Build/Redmi Note 961)
+
+Dalvik/35.35 (Linux; U; Android 9; Samsung Build/SM-G980F35)
+
+Dalvik/19.19 (Linux; Android 7.0; LG Build/Google Pixel19)
+
+Dalvik/59.59 (Linux; U; Android 11; Sony Build/Galaxy A7159)
+
+Dalvik/95.95 (Linux; U; Android 11; HTC Build/Mi 1195)
+
+Dalvik/38.38 (Linux; Android 10; Google Build/Mi 1038)
+
+Dalvik/27.27 (Linux; U; Android 8.1.0; Samsung Build/OnePlus 927)
+
+Dalvik/24.24 (Linux; Android 11; LG Build/OnePlus 724)
+
+Dalvik/47.47 (Linux; Android 8.0.0; Xiaomi Build/Google Pixel 3 XL47)
+
+Dalvik/89.89 (Linux; U; Android 10; HTC Build/Google Pixel 3 XL89)
+
+Dalvik/56.56 (Linux; U; Android 10; LG Build/OnePlus 856)
+
+Dalvik/57.57 (Linux; Android 10; Huawei Build/Galaxy A7057)
+
+Dalvik/21.21 (Linux; Android 11; Sony Build/LG V40 ThinQ21)
+
+Dalvik/96.96 (Linux; U; Android 10; OnePlus Build/SM-G950F96)
+
+Dalvik/94.94 (Linux; Android 11; Huawei Build/Xperia XZ394)
+
+Dalvik/92.92 (Linux; Android 11; Sony Build/LG G7 ThinQ92)
+
+Dalvik/96.96 (Linux; Android 10; OnePlus Build/Google Pixel XL96)
+
+Dalvik/69.69 (Linux; U; Android 7.1.1; LG Build/Galaxy A9069)
+
+Dalvik/18.18 (Linux; Android 10; LG Build/Pixel 218)
+
+Dalvik/32.32 (Linux; Android 10; HTC Build/Galaxy S1032)
+
+Dalvik/43.43 (Linux; Android 7.0; Samsung Build/Nexus 543)
+
+Dalvik/21.21 (Linux; U; Android 7.0; Sony Build/Redmi Note 921)
+
+Dalvik/38.38 (Linux; U; Android 8.0.0; Google Build/Galaxy A7038)
+
+Dalvik/40.40 (Linux; U; Android 10; Huawei Build/SM-N980F40)
+
+Dalvik/15.15 (Linux; U; Android 8.1.0; Samsung Build/Pixel 415)
+
+Dalvik/69.69 (Linux; U; Android 11; Huawei Build/Galaxy A9069)
+
+Dalvik/32.32 (Linux; Android 11; Huawei Build/LG V40 ThinQ32)
+
+Dalvik/75.75 (Linux; Android 10; Huawei Build/SM-N960F75)
+
+Dalvik/24.24 (Linux; Android 8.1.0; Google Build/Mi 924)
+
+Dalvik/42.42 (Linux; U; Android 7.0; Samsung Build/Galaxy A9042)
+
+Dalvik/84.84 (Linux; Android 9; Huawei Build/Galaxy A7184)
+
+Dalvik/66.66 (Linux; Android 10; LG Build/SM-N950F66)
+
+Dalvik/52.52 (Linux; U; Android 7.0; Sony Build/Mate 20 Pro52)
+
+Dalvik/58.58 (Linux; U; Android 11; LG Build/LG G658)
+
+Dalvik/28.28 (Linux; Android 11; LG Build/SM-G950F28)
+
+Dalvik/28.28 (Linux; U; Android 10; Samsung Build/SM-G975F28)
+
+Dalvik/73.73 (Linux; U; Android 10; Huawei Build/SM-G970F73)
+
+Dalvik/84.84 (Linux; Android 8.0.0; OnePlus Build/LG G684)
+
+Dalvik/79.79 (Linux; U; Android 7.0; OnePlus Build/Xperia XZ379)
+
+Dalvik/89.89 (Linux; U; Android 8.0.0; Samsung Build/SM-N960F89)
+
+Dalvik/96.96 (Linux; Android 10; Xiaomi Build/Google Pixel XL96)
+
+Dalvik/40.40 (Linux; Android 7.1.1; Samsung Build/Galaxy A7140)
+
+Dalvik/72.72 (Linux; U; Android 7.0; HTC Build/Nexus 6P72)
+
+Dalvik/71.71 (Linux; U; Android 10; OnePlus Build/Google Pixel71)
+
+Dalvik/95.95 (Linux; U; Android 7.1.1; Samsung Build/SM-G970F95)
+
+Dalvik/69.69 (Linux; Android 7.1.1; Xiaomi Build/Nexus 569)
+
+Dalvik/64.64 (Linux; U; Android 9; Google Build/Mi 1064)
+
+Dalvik/71.71 (Linux; Android 8.0.0; Xiaomi Build/Galaxy A8071)
+
+Dalvik/64.64 (Linux; Android 10; Sony Build/Mi 1064)
+
+Dalvik/49.49 (Linux; U; Android 8.0.0; Xiaomi Build/HTC One M849)
+
+Dalvik/24.24 (Linux; Android 9; Sony Build/SM-G920F24)
+
+Dalvik/23.23 (Linux; Android 8.1.0; HTC Build/Redmi Note 823)
+
+Dalvik/36.36 (Linux; U; Android 8.1.0; Xiaomi Build/Mi 1136)
+
+Dalvik/29.29 (Linux; Android 9; Huawei Build/SM-G975F29)
+
+Dalvik/45.45 (Linux; U; Android 8.0.0; Xiaomi Build/SM-N975F45)
+
+Dalvik/35.35 (Linux; U; Android 7.1.1; Sony Build/OnePlus 8T35)
+
+Dalvik/85.85 (Linux; Android 10; OnePlus Build/SM-N975F85)
+
+Dalvik/25.25 (Linux; Android 10; Google Build/Mi 1125)
+
+Dalvik/71.71 (Linux; U; Android 11; Sony Build/Xperia XZ271)
+
+Dalvik/60.60 (Linux; U; Android 8.1.0; HTC Build/Google Pixel60)
+
+Dalvik/30.30 (Linux; Android 11; Sony Build/Redmi Note 930)
+
+Dalvik/29.29 (Linux; Android 8.0.0; Xiaomi Build/SM-G970F29)
+
+Dalvik/75.75 (Linux; U; Android 10; Xiaomi Build/Xperia XZ375)
+
+Dalvik/30.30 (Linux; U; Android 10; LG Build/Redmi Note 830)
+
+Dalvik/16.16 (Linux; Android 9; LG Build/HTC 1016)
+
+Dalvik/51.51 (Linux; U; Android 8.1.0; Sony Build/SM-G950F51)
+
+Dalvik/77.77 (Linux; U; Android 7.1.1; Google Build/LG V40 ThinQ77)
+
+Dalvik/81.81 (Linux; U; Android 8.1.0; OnePlus Build/Xperia XZ281)
+
+Dalvik/63.63 (Linux; Android 8.1.0; OnePlus Build/Galaxy S2063)
+
+Dalvik/20.20 (Linux; Android 8.1.0; Xiaomi Build/OnePlus 8T20)
+
+Dalvik/36.36 (Linux; Android 11; Samsung Build/SM-G960F36)
+
+Dalvik/15.15 (Linux; Android 11; Google Build/SM-N970F15)
+
+Dalvik/53.53 (Linux; U; Android 8.0.0; OnePlus Build/SM-N980F53)
+
+Dalvik/21.21 (Linux; Android 9; OnePlus Build/HTC One M821)
+
+Dalvik/31.31 (Linux; Android 8.1.0; Google Build/HTC One M931)
+
+Dalvik/19.19 (Linux; Android 11; Huawei Build/SM-N980F19)
+
+Dalvik/99.99 (Linux; U; Android 8.1.0; Huawei Build/HTC U12+99)
+
+Dalvik/78.78 (Linux; Android 11; Sony Build/Galaxy S2078)
+
+Dalvik/47.47 (Linux; U; Android 9; Google Build/Galaxy S1047)
+
+Dalvik/12.12 (Linux; Android 9; Samsung Build/HTC One M812)
+
+Dalvik/19.19 (Linux; Android 8.1.0; Huawei Build/SM-G970F19)
+
+Dalvik/68.68 (Linux; Android 8.1.0; Xiaomi Build/HTC One M868)
+
+Dalvik/79.79 (Linux; Android 10; Samsung Build/HTC One M979)
+
+Dalvik/32.32 (Linux; U; Android 9; OnePlus Build/HTC U1132)
+
+Dalvik/67.67 (Linux; Android 8.1.0; Samsung Build/Galaxy A7067)
+
+Dalvik/23.23 (Linux; Android 7.0; Xiaomi Build/Mi 1123)
+
+Dalvik/78.78 (Linux; Android 7.1.1; Xiaomi Build/HTC One M878)
+
+Dalvik/55.55 (Linux; U; Android 7.0; HTC Build/HTC One M855)
+
+Dalvik/27.27 (Linux; Android 11; OnePlus Build/SM-N975F27)
+
+Dalvik/37.37 (Linux; U; Android 8.0.0; Huawei Build/Google Pixel 2 XL37)
+
+Dalvik/91.91 (Linux; Android 9; Huawei Build/Google Pixel XL91)
+
+Dalvik/74.74 (Linux; Android 9; Sony Build/SM-G975F74)
+
+Dalvik/42.42 (Linux; U; Android 10; OnePlus Build/SM-N950F42)
+
+Dalvik/69.69 (Linux; U; Android 9; OnePlus Build/Mate 20 Pro69)
+
+Dalvik/19.19 (Linux; U; Android 7.1.1; Sony Build/OnePlus 719)
+
+Dalvik/50.50 (Linux; Android 11; Huawei Build/SM-N970F50)
+
+Dalvik/68.68 (Linux; Android 7.0; Samsung Build/Galaxy A7068)
+
+Dalvik/92.92 (Linux; U; Android 10; LG Build/Galaxy A7192)
+
+Dalvik/93.93 (Linux; Android 7.0; Sony Build/SM-N970F93)
+
+Dalvik/60.60 (Linux; U; Android 8.1.0; OnePlus Build/P30 Pro60)
+
+Dalvik/75.75 (Linux; Android 7.1.1; LG Build/Mate 20 Pro75)
+
+Dalvik/46.46 (Linux; Android 7.0; LG Build/HTC One M846)
+
+Dalvik/65.65 (Linux; Android 11; HTC Build/Xperia 165)
+
+Dalvik/13.13 (Linux; U; Android 10; LG Build/Galaxy A8013)
+
+Dalvik/71.71 (Linux; U; Android 8.1.0; Google Build/Xperia 571)
+
+Dalvik/10.10 (Linux; U; Android 9; HTC Build/HTC One M910)
+
+Dalvik/92.92 (Linux; Android 11; Huawei Build/Xperia 192)
+
+Dalvik/48.48 (Linux; Android 7.1.1; Samsung Build/Redmi Note 948)
+
+Dalvik/28.28 (Linux; Android 10; Google Build/Galaxy S1028)
+
+Dalvik/36.36 (Linux; Android 9; Sony Build/OnePlus 8T36)
+
+Dalvik/46.46 (Linux; Android 10; HTC Build/SM-G980F46)
+
+Dalvik/4.4 (Linux; U; Android 10; Sony Build/Mi 114)
+
+Dalvik/42.42 (Linux; U; Android 10; Xiaomi Build/Pixel 242)
+
+Dalvik/30.30 (Linux; U; Android 7.1.1; Sony Build/OnePlus 830)
+
+Dalvik/10.10 (Linux; Android 10; OnePlus Build/Xperia 510)
+
+Dalvik/30.30 (Linux; U; Android 11; LG Build/HTC One M930)
+
+Dalvik/92.92 (Linux; Android 7.1.1; Google Build/SM-G973F92)
+
+Dalvik/44.44 (Linux; U; Android 8.1.0; Sony Build/Redmi Note 944)
+
+Dalvik/80.80 (Linux; Android 11; Sony Build/SM-G975F80)
+
+Dalvik/23.23 (Linux; U; Android 8.0.0; Sony Build/P20 Pro23)
+
+Dalvik/87.87 (Linux; U; Android 11; Huawei Build/Pixel 487)
+
+Dalvik/40.40 (Linux; U; Android 9; Samsung Build/Google Pixel 3 XL40)
+
+Dalvik/39.39 (Linux; Android 8.1.0; HTC Build/Xperia XZ339)
+
+Dalvik/80.80 (Linux; U; Android 10; LG Build/Galaxy A7080)
+
+Dalvik/68.68 (Linux; U; Android 11; LG Build/Mi 968)
+
+Dalvik/91.91 (Linux; U; Android 8.0.0; Samsung Build/Xperia XZ391)
+
+Dalvik/95.95 (Linux; U; Android 7.0; OnePlus Build/SM-G950F95)
+
+Dalvik/52.52 (Linux; U; Android 8.0.0; Xiaomi Build/HTC U12+52)
+
+Dalvik/12.12 (Linux; Android 7.1.1; HTC Build/Galaxy A7112)
+
+Dalvik/77.77 (Linux; Android 7.1.1; Xiaomi Build/Galaxy A7077)
+
+Dalvik/4.4 (Linux; U; Android 7.1.1; Samsung Build/Mi 94)
+
+Dalvik/65.65 (Linux; U; Android 8.0.0; HTC Build/LG V50 ThinQ65)
+
+Dalvik/90.90 (Linux; U; Android 7.0; Samsung Build/HTC U12+90)
+
+Dalvik/15.15 (Linux; U; Android 8.1.0; Google Build/SM-G920F15)
+
+Dalvik/84.84 (Linux; U; Android 11; Huawei Build/SM-N980F84)
+
+Dalvik/91.91 (Linux; Android 11; LG Build/Xperia 191)
+
+Dalvik/72.72 (Linux; Android 7.1.1; HTC Build/Nexus 6P72)
+
+Dalvik/35.35 (Linux; U; Android 11; Huawei Build/Pixel 435)
+
+Dalvik/7.7 (Linux; U; Android 7.1.1; Google Build/SM-G975F7)
+
+Dalvik/96.96 (Linux; U; Android 7.0; Samsung Build/Mi 1096)
+
+Dalvik/97.97 (Linux; Android 8.1.0; Sony Build/SM-N980F97)
+
+Dalvik/55.55 (Linux; U; Android 8.0.0; LG Build/OnePlus 9 Pro55)
+
+Dalvik/16.16 (Linux; U; Android 11; Xiaomi Build/P20 Pro16)
+
+Dalvik/45.45 (Linux; U; Android 7.0; Xiaomi Build/Nexus 545)
+
+Dalvik/46.46 (Linux; U; Android 10; Samsung Build/Xperia XZ346)
+
+Dalvik/44.44 (Linux; U; Android 8.0.0; Google Build/P20 Pro44)
+
+Dalvik/25.25 (Linux; Android 10; Huawei Build/SM-G980F25)
+
+Dalvik/62.62 (Linux; Android 9; HTC Build/Google Pixel 3 XL62)
+
+Dalvik/41.41 (Linux; Android 7.0; OnePlus Build/Redmi Note 841)
+
+Dalvik/83.83 (Linux; Android 11; Xiaomi Build/SM-G920F83)
+
+Dalvik/17.17 (Linux; U; Android 7.0; Xiaomi Build/LG G7 ThinQ17)
+
+Dalvik/67.67 (Linux; Android 7.1.1; OnePlus Build/SM-N970F67)
+
+Dalvik/68.68 (Linux; Android 7.1.1; Google Build/SM-N980F68)
+
+Dalvik/68.68 (Linux; U; Android 9; Huawei Build/HTC One M868)
+
+Dalvik/13.13 (Linux; Android 11; Sony Build/Xperia 513)
+
+Dalvik/26.26 (Linux; U; Android 11; Xiaomi Build/Pixel 226)
+
+Dalvik/36.36 (Linux; U; Android 8.1.0; Samsung Build/LG G7 ThinQ36)
+
+Dalvik/36.36 (Linux; U; Android 7.1.1; Sony Build/P20 Pro36)
+
+Dalvik/83.83 (Linux; Android 11; Sony Build/OnePlus 7T83)
+
+Dalvik/55.55 (Linux; U; Android 11; LG Build/LG V40 ThinQ55)
+
+Dalvik/81.81 (Linux; Android 11; OnePlus Build/SM-N975F81)
+
+Dalvik/62.62 (Linux; U; Android 7.0; Xiaomi Build/OnePlus 862)
+
+Dalvik/37.37 (Linux; Android 7.1.1; Sony Build/Galaxy A5037)
+
+Dalvik/15.15 (Linux; Android 11; Xiaomi Build/Google Pixel 3 XL15)
+
+Dalvik/55.55 (Linux; Android 8.1.0; OnePlus Build/Xperia XZ355)
+
+Dalvik/22.22 (Linux; U; Android 8.1.0; LG Build/Xperia 522)
+
+Dalvik/86.86 (Linux; U; Android 8.1.0; Xiaomi Build/Google Pixel 2 XL86)
+
+Dalvik/2.2 (Linux; U; Android 9; Google Build/SM-N975F2)
+
+Dalvik/18.18 (Linux; U; Android 8.1.0; Xiaomi Build/Redmi Note 818)
+
+Dalvik/67.67 (Linux; U; Android 10; Huawei Build/Google Pixel XL67)
+
+Dalvik/30.30 (Linux; Android 7.0; LG Build/SM-N975F30)
+
+Dalvik/84.84 (Linux; U; Android 8.0.0; OnePlus Build/Galaxy S2084)
+
+Dalvik/66.66 (Linux; Android 10; OnePlus Build/Galaxy A5166)
+
+Dalvik/35.35 (Linux; U; Android 7.0; Samsung Build/SM-N985F35)
+
+Dalvik/57.57 (Linux; U; Android 9; Xiaomi Build/HTC 1057)
+
+Dalvik/3.3 (Linux; Android 8.0.0; Sony Build/LG V50 ThinQ3)
+
+Dalvik/22.22 (Linux; U; Android 11; Samsung Build/Xperia 122)
+
+Dalvik/97.97 (Linux; Android 9; LG Build/Redmi Note 997)
+
+Dalvik/29.29 (Linux; U; Android 11; LG Build/SM-N980F29)
+
+Dalvik/9.9 (Linux; Android 7.1.1; Samsung Build/Nexus 59)
+
+Dalvik/8.8 (Linux; Android 7.0; Huawei Build/Nexus 6P8)
+
+Dalvik/88.88 (Linux; U; Android 7.0; Google Build/LG G7 ThinQ88)
+
+Dalvik/44.44 (Linux; U; Android 7.1.1; Huawei Build/Galaxy A9044)
+
+Dalvik/15.15 (Linux; U; Android 7.0; Samsung Build/LG V50 ThinQ15)
+
+Dalvik/82.82 (Linux; Android 9; Huawei Build/Xperia 582)
+
+Dalvik/24.24 (Linux; U; Android 8.0.0; Samsung Build/Nexus 6P24)
+
+Dalvik/62.62 (Linux; Android 11; Google Build/SM-N985F62)
+
+Dalvik/93.93 (Linux; U; Android 11; Sony Build/SM-N970F93)
+
+Dalvik/81.81 (Linux; Android 11; OnePlus Build/Xperia 581)
+
+Dalvik/14.14 (Linux; Android 7.1.1; Xiaomi Build/Galaxy A8014)
+
+Dalvik/60.60 (Linux; Android 8.1.0; Google Build/Mate 30 Pro60)
+
+Dalvik/13.13 (Linux; Android 7.0; Sony Build/Galaxy A7113)
+
+Dalvik/81.81 (Linux; U; Android 8.0.0; Huawei Build/Galaxy A5181)
+
+Dalvik/98.98 (Linux; Android 11; Google Build/Galaxy A5198)
+
+Dalvik/1.1 (Linux; Android 7.1.1; Huawei Build/Redmi Note 81)
+
+Dalvik/19.19 (Linux; Android 9; Samsung Build/Mi 1019)
+
+Dalvik/40.40 (Linux; Android 7.1.1; Xiaomi Build/SM-N970F40)
+
+Dalvik/81.81 (Linux; Android 7.0; Sony Build/Xperia 581)
+
+Dalvik/93.93 (Linux; Android 8.0.0; HTC Build/LG V50 ThinQ93)
+
+Dalvik/20.20 (Linux; Android 7.0; LG Build/Pixel 220)
+
+Dalvik/95.95 (Linux; Android 8.1.0; Xiaomi Build/Google Pixel 2 XL95)
+
+Dalvik/93.93 (Linux; U; Android 11; LG Build/Redmi Note 993)
+
+Dalvik/16.16 (Linux; U; Android 8.0.0; OnePlus Build/Xperia XZ216)
+
+Dalvik/48.48 (Linux; U; Android 9; Sony Build/Pixel 448)
+
+Dalvik/57.57 (Linux; U; Android 9; LG Build/Nexus 557)
+
+Dalvik/95.95 (Linux; U; Android 8.1.0; HTC Build/Xperia 195)
+
+Dalvik/3.3 (Linux; Android 8.1.0; OnePlus Build/Mi 113)
+
+Dalvik/80.80 (Linux; U; Android 10; Sony Build/LG V40 ThinQ80)
+
+Dalvik/3.3 (Linux; U; Android 7.1.1; LG Build/Google Pixel XL3)
+
+Dalvik/53.53 (Linux; Android 9; Samsung Build/Mate 40 Pro53)
+
+Dalvik/28.28 (Linux; Android 9; Huawei Build/Google Pixel 328)
+
+Dalvik/31.31 (Linux; Android 11; Samsung Build/Galaxy A8031)
+
+Dalvik/39.39 (Linux; U; Android 9; OnePlus Build/Mate 30 Pro39)
+
+Dalvik/49.49 (Linux; U; Android 7.0; Xiaomi Build/SM-N980F49)
+
+Dalvik/68.68 (Linux; Android 10; Samsung Build/HTC One M868)
+
+Dalvik/67.67 (Linux; U; Android 9; Huawei Build/Galaxy S2067)
+
+Dalvik/99.99 (Linux; Android 7.1.1; Xiaomi Build/HTC U1199)
+
+Dalvik/6.6 (Linux; U; Android 7.1.1; Sony Build/Mi 106)
+
+Dalvik/18.18 (Linux; Android 8.0.0; Samsung Build/HTC U12+18)
+
+Dalvik/54.54 (Linux; U; Android 7.1.1; Huawei Build/LG G654)
+
+Dalvik/12.12 (Linux; Android 8.0.0; OnePlus Build/LG G7 ThinQ12)
+
+Dalvik/42.42 (Linux; U; Android 10; Xiaomi Build/HTC One M842)
+
+Dalvik/45.45 (Linux; Android 8.1.0; Huawei Build/SM-G960F45)
+
+Dalvik/88.88 (Linux; U; Android 7.1.1; HTC Build/Redmi Note 988)
+
+Dalvik/16.16 (Linux; U; Android 9; Sony Build/Mate 40 Pro16)
+
+Dalvik/19.19 (Linux; U; Android 7.0; Huawei Build/P20 Pro19)
+
+Dalvik/87.87 (Linux; Android 7.0; Sony Build/HTC One M987)
+
+Dalvik/69.69 (Linux; U; Android 8.0.0; Huawei Build/P30 Pro69)
+
+Dalvik/96.96 (Linux; Android 7.1.1; Xiaomi Build/SM-N950F96)
+
+Dalvik/34.34 (Linux; Android 10; LG Build/SM-G920F34)
+
+Dalvik/51.51 (Linux; U; Android 9; Google Build/SM-N975F51)
+
+Dalvik/41.41 (Linux; U; Android 9; LG Build/OnePlus 9 Pro41)
+
+Dalvik/75.75 (Linux; U; Android 11; Sony Build/Mi 1075)
+
+Dalvik/82.82 (Linux; Android 8.0.0; Xiaomi Build/SM-G980F82)
+
+Dalvik/68.68 (Linux; Android 8.0.0; Xiaomi Build/OnePlus 868)
+
+Dalvik/97.97 (Linux; U; Android 8.0.0; LG Build/HTC U1197)
+
+Dalvik/88.88 (Linux; U; Android 7.1.1; Huawei Build/LG G7 ThinQ88)
+
+Dalvik/97.97 (Linux; Android 7.0; Sony Build/LG V50 ThinQ97)
+
+Dalvik/93.93 (Linux; U; Android 10; LG Build/LG V3093)
+
+Dalvik/32.32 (Linux; U; Android 10; Sony Build/SM-G980F32)
+
+Dalvik/43.43 (Linux; Android 10; Xiaomi Build/Redmi Note 1043)
+
+Dalvik/65.65 (Linux; U; Android 8.0.0; Huawei Build/SM-G973F65)
+
+Dalvik/13.13 (Linux; U; Android 8.0.0; OnePlus Build/Nexus 6P13)
+
+Dalvik/62.62 (Linux; U; Android 7.0; Samsung Build/SM-N960F62)
+
+Dalvik/99.99 (Linux; Android 7.0; Sony Build/SM-N975F99)
+
+Dalvik/85.85 (Linux; Android 8.1.0; Google Build/OnePlus 8T85)
+
+Dalvik/39.39 (Linux; U; Android 8.0.0; LG Build/SM-G970F39)
+
+Dalvik/88.88 (Linux; U; Android 7.0; Xiaomi Build/Google Pixel 388)
+
+Dalvik/83.83 (Linux; Android 7.0; HTC Build/Galaxy A7083)
+
+Dalvik/63.63 (Linux; U; Android 7.0; Google Build/Galaxy S2063)
+
+Dalvik/59.59 (Linux; Android 7.1.1; Sony Build/Xperia 559)
+
+Dalvik/51.51 (Linux; Android 9; HTC Build/SM-N985F51)
+
+Dalvik/20.20 (Linux; U; Android 10; Xiaomi Build/Galaxy S1020)
+
+Dalvik/94.94 (Linux; Android 9; LG Build/Google Pixel 3 XL94)
+
+Dalvik/41.41 (Linux; U; Android 7.0; Sony Build/Nexus 6P41)
+
+Dalvik/83.83 (Linux; U; Android 7.0; OnePlus Build/SM-G970F83)
+
+Dalvik/56.56 (Linux; U; Android 9; OnePlus Build/LG G7 ThinQ56)
+
+Dalvik/12.12 (Linux; Android 8.0.0; LG Build/Galaxy A7112)
+
+Dalvik/28.28 (Linux; Android 11; OnePlus Build/Google Pixel 2 XL28)
+
+Dalvik/45.45 (Linux; U; Android 9; HTC Build/Xperia 145)
+
+Dalvik/70.70 (Linux; U; Android 11; Sony Build/SM-G973F70)
+
+Dalvik/43.43 (Linux; Android 8.0.0; OnePlus Build/LG V3043)
+
+Dalvik/66.66 (Linux; Android 7.0; Google Build/Pixel 466)
+
+Dalvik/49.49 (Linux; Android 11; Xiaomi Build/Galaxy A5149)
+
+Dalvik/34.34 (Linux; U; Android 8.0.0; Xiaomi Build/Xperia XZ334)
+
+Dalvik/6.6 (Linux; U; Android 9; Huawei Build/Xperia Z56)
+
+Dalvik/72.72 (Linux; Android 7.1.1; OnePlus Build/SM-N960F72)
+
+Dalvik/2.2 (Linux; U; Android 8.1.0; Huawei Build/SM-G975F2)
+
+Dalvik/19.19 (Linux; U; Android 7.0; LG Build/Mate 30 Pro19)
+
+Dalvik/3.3 (Linux; U; Android 7.0; Google Build/SM-G950F3)
+
+Dalvik/64.64 (Linux; U; Android 7.1.1; Huawei Build/Xperia XZ264)
+
+Dalvik/60.60 (Linux; Android 8.0.0; HTC Build/SM-N970F60)
+
+Dalvik/25.25 (Linux; Android 8.1.0; Xiaomi Build/Xperia Z525)
+
+Dalvik/47.47 (Linux; Android 11; Samsung Build/SM-N985F47)
+
+Dalvik/90.90 (Linux; Android 9; Sony Build/Xperia 190)
+
+Dalvik/46.46 (Linux; U; Android 11; HTC Build/SM-G950F46)
+
+Dalvik/76.76 (Linux; Android 8.1.0; HTC Build/Google Pixel 2 XL76)
+
+Dalvik/90.90 (Linux; Android 10; Huawei Build/Mi 990)
+
+Dalvik/95.95 (Linux; Android 7.0; LG Build/Mi 1195)
+
+Dalvik/60.60 (Linux; Android 9; Google Build/Mi 960)
+
+Dalvik/56.56 (Linux; Android 11; HTC Build/Nexus 556)
+
+Dalvik/70.70 (Linux; U; Android 10; Xiaomi Build/Google Pixel XL70)
+
+Dalvik/26.26 (Linux; U; Android 9; Huawei Build/HTC U12+26)
+
+Dalvik/60.60 (Linux; U; Android 7.1.1; Huawei Build/OnePlus 860)
+
+Dalvik/8.8 (Linux; Android 11; HTC Build/LG V50 ThinQ8)
+
+Dalvik/84.84 (Linux; Android 7.1.1; LG Build/SM-G950F84)
+
+Dalvik/40.40 (Linux; U; Android 11; Google Build/Redmi Note 840)
+
+Dalvik/51.51 (Linux; Android 7.0; Sony Build/Xperia Z551)
+
+Dalvik/16.16 (Linux; U; Android 7.0; OnePlus Build/OnePlus 7T16)
+
+Dalvik/86.86 (Linux; Android 8.0.0; Xiaomi Build/Galaxy S2086)
+
+Dalvik/6.6 (Linux; U; Android 7.1.1; Sony Build/SM-N985F6)
+
+Dalvik/24.24 (Linux; U; Android 7.1.1; Sony Build/Pixel 424)
+
+Dalvik/96.96 (Linux; U; Android 10; LG Build/Galaxy A5196)
+
+Dalvik/30.30 (Linux; Android 8.0.0; OnePlus Build/SM-G960F30)
+
+Dalvik/8.8 (Linux; U; Android 8.1.0; HTC Build/Nexus 6P8)
+
+Dalvik/62.62 (Linux; Android 8.0.0; Sony Build/Google Pixel62)
+
+Dalvik/5.5 (Linux; Android 9; Samsung Build/SM-G950F5)
+
+Dalvik/45.45 (Linux; U; Android 11; LG Build/Nexus 545)
+
+Dalvik/62.62 (Linux; Android 7.0; Xiaomi Build/Mi 1062)
+
+Dalvik/41.41 (Linux; Android 8.0.0; Sony Build/Galaxy A9041)
+
+Dalvik/78.78 (Linux; Android 7.1.1; Xiaomi Build/Google Pixel78)
+
+Dalvik/89.89 (Linux; U; Android 11; LG Build/OnePlus 8T89)
+
+Dalvik/95.95 (Linux; U; Android 11; Xiaomi Build/OnePlus 8T95)
+
+Dalvik/13.13 (Linux; Android 11; LG Build/Pixel 213)
+
+Dalvik/82.82 (Linux; U; Android 7.0; HTC Build/LG V3082)
+
+Dalvik/87.87 (Linux; U; Android 8.0.0; Xiaomi Build/LG V40 ThinQ87)
+
+Dalvik/32.32 (Linux; U; Android 10; Xiaomi Build/LG V40 ThinQ32)
+
+Dalvik/42.42 (Linux; Android 10; Google Build/SM-G975F42)
+
+Dalvik/62.62 (Linux; Android 8.0.0; Xiaomi Build/Galaxy S2062)
+
+Dalvik/39.39 (Linux; Android 8.0.0; LG Build/SM-G970F39)
+
+Dalvik/46.46 (Linux; U; Android 11; Google Build/Redmi Note 946)
+
+Dalvik/73.73 (Linux; U; Android 7.1.1; Xiaomi Build/OnePlus 7T73)
+
+Dalvik/58.58 (Linux; U; Android 8.1.0; HTC Build/HTC 1058)
+
+Dalvik/3.3 (Linux; U; Android 11; Xiaomi Build/OnePlus 8T3)
+
+Dalvik/37.37 (Linux; Android 9; Xiaomi Build/Xperia 537)
+
+Dalvik/12.12 (Linux; U; Android 8.0.0; Samsung Build/OnePlus 912)
+
+Dalvik/6.6 (Linux; U; Android 8.0.0; Google Build/Mi 106)
+
+Dalvik/77.77 (Linux; Android 7.0; HTC Build/OnePlus 877)
+
+Dalvik/32.32 (Linux; U; Android 10; Samsung Build/Mate 20 Pro32)
+
+Dalvik/32.32 (Linux; U; Android 11; Huawei Build/SM-G920F32)
+
+Dalvik/2.2 (Linux; Android 11; Google Build/Galaxy S202)
+
+Dalvik/52.52 (Linux; U; Android 8.1.0; Huawei Build/SM-G920F52)
+
+Dalvik/5.5 (Linux; U; Android 8.1.0; OnePlus Build/Mi 95)
+
+Dalvik/70.70 (Linux; Android 11; Xiaomi Build/Mate 30 Pro70)
+
+Dalvik/9.9 (Linux; Android 7.0; OnePlus Build/SM-G980F9)
+
+Dalvik/1.1 (Linux; Android 8.0.0; Samsung Build/HTC One M91)
+
+Dalvik/99.99 (Linux; Android 8.0.0; Google Build/SM-N970F99)
+
+Dalvik/69.69 (Linux; U; Android 11; OnePlus Build/Google Pixel 369)
+
+Dalvik/45.45 (Linux; Android 9; LG Build/Nexus 6P45)
+
+Dalvik/79.79 (Linux; U; Android 7.0; Sony Build/HTC U1179)
+
+Dalvik/84.84 (Linux; Android 7.1.1; Sony Build/SM-N980F84)
+
+Dalvik/55.55 (Linux; U; Android 8.0.0; Samsung Build/Xperia XZ355)
+
+Dalvik/61.61 (Linux; Android 9; Xiaomi Build/HTC One M961)
+
+Dalvik/67.67 (Linux; U; Android 11; Sony Build/SM-G970F67)
+
+Dalvik/48.48 (Linux; U; Android 7.0; Huawei Build/SM-N985F48)
+
+Dalvik/97.97 (Linux; U; Android 8.0.0; Huawei Build/OnePlus 897)
+
+Dalvik/57.57 (Linux; U; Android 11; Samsung Build/Google Pixel XL57)
+
+Dalvik/60.60 (Linux; Android 8.0.0; HTC Build/Nexus 6P60)
+
+Dalvik/83.83 (Linux; Android 8.0.0; HTC Build/Mi 983)
+
+Dalvik/65.65 (Linux; U; Android 8.0.0; Samsung Build/OnePlus 965)
+
+Dalvik/33.33 (Linux; Android 11; Sony Build/Mi 1033)
+
+Dalvik/27.27 (Linux; U; Android 10; Huawei Build/Redmi Note 1027)
+
+Dalvik/50.50 (Linux; Android 8.0.0; Google Build/HTC 1050)
+
+Dalvik/83.83 (Linux; U; Android 10; Google Build/P20 Pro83)
+
+Dalvik/12.12 (Linux; Android 7.0; LG Build/OnePlus 9 Pro12)
+
+Dalvik/15.15 (Linux; Android 8.0.0; Xiaomi Build/Google Pixel 315)
+
+Dalvik/67.67 (Linux; Android 11; Sony Build/Google Pixel 2 XL67)
+
+Dalvik/63.63 (Linux; U; Android 10; Google Build/OnePlus 7T63)
+
+Dalvik/47.47 (Linux; Android 7.0; OnePlus Build/Redmi Note 847)
+
+Dalvik/11.11 (Linux; U; Android 7.1.1; Samsung Build/SM-G973F11)
+
+Dalvik/43.43 (Linux; Android 8.1.0; OnePlus Build/SM-G980F43)
+
+Dalvik/47.47 (Linux; U; Android 10; HTC Build/Galaxy S2047)
+
+Dalvik/55.55 (Linux; Android 10; LG Build/LG V3055)
+
+Dalvik/52.52 (Linux; Android 11; LG Build/Galaxy A5052)
+
+Dalvik/49.49 (Linux; U; Android 7.0; Samsung Build/OnePlus 949)
+
+Dalvik/80.80 (Linux; Android 11; Google Build/SM-G920F80)
+
+Dalvik/92.92 (Linux; U; Android 7.1.1; LG Build/HTC U1192)
+
+Dalvik/91.91 (Linux; U; Android 8.1.0; Sony Build/Nexus 6P91)
+
+Dalvik/7.7 (Linux; U; Android 10; Xiaomi Build/Google Pixel 37)
+
+Dalvik/33.33 (Linux; Android 7.1.1; LG Build/Mate 40 Pro33)
+
+Dalvik/64.64 (Linux; U; Android 7.1.1; LG Build/Galaxy A8064)
+
+Dalvik/46.46 (Linux; Android 9; Samsung Build/Google Pixel 3 XL46)
+
+Dalvik/95.95 (Linux; Android 8.1.0; OnePlus Build/SM-G950F95)
+
+Dalvik/83.83 (Linux; U; Android 10; OnePlus Build/HTC U1183)
+
+Dalvik/92.92 (Linux; Android 7.1.1; OnePlus Build/Redmi Note 892)
+
+Dalvik/87.87 (Linux; U; Android 10; Sony Build/HTC U12+87)
+
+Dalvik/45.45 (Linux; U; Android 11; Google Build/HTC U12+45)
+
+Dalvik/77.77 (Linux; Android 8.1.0; Google Build/Google Pixel77)
+
+Dalvik/17.17 (Linux; U; Android 8.1.0; OnePlus Build/HTC U1117)
+
+Dalvik/96.96 (Linux; U; Android 11; OnePlus Build/OnePlus 896)
+
+Dalvik/20.20 (Linux; Android 7.0; OnePlus Build/Galaxy S1020)
+
+Dalvik/61.61 (Linux; Android 7.1.1; Huawei Build/Redmi Note 861)
+
+Dalvik/50.50 (Linux; U; Android 7.1.1; LG Build/SM-G920F50)
+
+Dalvik/32.32 (Linux; U; Android 11; Xiaomi Build/Galaxy A9032)
+
+Dalvik/80.80 (Linux; Android 11; LG Build/Nexus 580)
+
+Dalvik/10.10 (Linux; U; Android 11; OnePlus Build/P20 Pro10)
+
+Dalvik/34.34 (Linux; U; Android 8.1.0; LG Build/Mi 1034)
+
+Dalvik/67.67 (Linux; Android 7.0; Huawei Build/OnePlus 967)
+
+Dalvik/14.14 (Linux; U; Android 10; OnePlus Build/Galaxy A8014)
+
+Dalvik/8.8 (Linux; Android 8.1.0; Samsung Build/LG V308)
+
+Dalvik/24.24 (Linux; Android 7.0; OnePlus Build/Google Pixel 3 XL24)
+
+Dalvik/27.27 (Linux; Android 9; Xiaomi Build/Mi 927)
+
+Dalvik/76.76 (Linux; U; Android 7.0; OnePlus Build/Redmi Note 1076)
+
+Dalvik/57.57 (Linux; U; Android 8.1.0; LG Build/OnePlus 857)
+
+Dalvik/66.66 (Linux; Android 7.1.1; HTC Build/SM-N980F66)
+
+Dalvik/5.5 (Linux; U; Android 8.1.0; LG Build/LG V50 ThinQ5)
+
+Dalvik/12.12 (Linux; U; Android 9; LG Build/OnePlus 912)
+
+Dalvik/17.17 (Linux; U; Android 7.0; Google Build/HTC U12+17)
+
+Dalvik/27.27 (Linux; U; Android 8.0.0; Google Build/SM-G950F27)
+
+Dalvik/26.26 (Linux; U; Android 9; LG Build/SM-G980F26)
+
+Dalvik/98.98 (Linux; Android 8.0.0; LG Build/Mate 30 Pro98)
+
+Dalvik/57.57 (Linux; Android 11; OnePlus Build/SM-G970F57)
+
+Dalvik/93.93 (Linux; Android 9; Xiaomi Build/Nexus 593)
+
+Dalvik/21.21 (Linux; U; Android 10; Sony Build/Pixel 421)
+
+Dalvik/82.82 (Linux; U; Android 7.1.1; OnePlus Build/Xperia XZ282)
+
+Dalvik/3.3 (Linux; U; Android 8.0.0; OnePlus Build/SM-N985F3)
+
+Dalvik/71.71 (Linux; U; Android 9; LG Build/Mi 1171)
+
+Dalvik/67.67 (Linux; Android 8.1.0; Google Build/Galaxy A8067)
+
+Dalvik/2.2 (Linux; Android 8.1.0; LG Build/SM-G950F2)
+
+Dalvik/97.97 (Linux; Android 7.0; Google Build/Pixel 297)
+
+Dalvik/60.60 (Linux; U; Android 11; Huawei Build/SM-G950F60)
+
+Dalvik/11.11 (Linux; Android 8.1.0; Xiaomi Build/Galaxy A5011)
+
+Dalvik/21.21 (Linux; Android 9; OnePlus Build/Galaxy A7021)
+
+Dalvik/65.65 (Linux; U; Android 7.0; Sony Build/SM-N980F65)
+
+Dalvik/20.20 (Linux; U; Android 7.0; LG Build/Pixel 220)
+
+Dalvik/88.88 (Linux; Android 10; Huawei Build/SM-G950F88)
+
+Dalvik/35.35 (Linux; Android 7.0; Huawei Build/SM-N960F35)
+
+Dalvik/78.78 (Linux; Android 7.1.1; Huawei Build/Xperia 578)
+
+Dalvik/55.55 (Linux; U; Android 10; Sony Build/HTC One M855)
+
+Dalvik/43.43 (Linux; Android 7.1.1; HTC Build/SM-G980F43)
+
+Dalvik/36.36 (Linux; Android 10; LG Build/Xperia XZ136)
+
+Dalvik/21.21 (Linux; U; Android 8.1.0; Xiaomi Build/Pixel 221)
+
+Dalvik/66.66 (Linux; Android 9; Samsung Build/Google Pixel 366)
+
+Dalvik/63.63 (Linux; U; Android 11; LG Build/OnePlus 8T63)
+
+Dalvik/28.28 (Linux; Android 11; Xiaomi Build/Xperia XZ128)
+
+Dalvik/92.92 (Linux; U; Android 9; Xiaomi Build/OnePlus 792)
+
+Dalvik/64.64 (Linux; U; Android 7.1.1; Google Build/Xperia 164)
+
+Dalvik/67.67 (Linux; U; Android 11; Google Build/Mate 40 Pro67)
+
+Dalvik/45.45 (Linux; Android 9; Samsung Build/Nexus 545)
+
+Dalvik/2.2 (Linux; U; Android 10; Huawei Build/Pixel 42)
+
+Dalvik/17.17 (Linux; U; Android 8.1.0; OnePlus Build/Mi 1117)
+
+Dalvik/18.18 (Linux; Android 9; Samsung Build/Mate 40 Pro18)
+
+Dalvik/89.89 (Linux; U; Android 8.1.0; HTC Build/SM-N980F89)
+
+Dalvik/71.71 (Linux; U; Android 8.1.0; LG Build/Redmi Note 1071)
+
+Dalvik/38.38 (Linux; U; Android 7.1.1; HTC Build/OnePlus 8T38)
+
+Dalvik/68.68 (Linux; Android 11; LG Build/Pixel 468)
+
+Dalvik/88.88 (Linux; Android 8.1.0; Samsung Build/SM-G920F88)
+
+Dalvik/77.77 (Linux; Android 7.1.1; Huawei Build/SM-N975F77)
+
+Dalvik/56.56 (Linux; U; Android 10; HTC Build/Galaxy A8056)
+
+Dalvik/19.19 (Linux; Android 8.1.0; Huawei Build/Xperia 119)
+
+Dalvik/72.72 (Linux; U; Android 7.0; OnePlus Build/Google Pixel 3 XL72)
+
+Dalvik/90.90 (Linux; U; Android 7.1.1; HTC Build/Xperia XZ190)
+
+Dalvik/35.35 (Linux; Android 8.0.0; Google Build/SM-N950F35)
+
+Dalvik/29.29 (Linux; Android 7.0; Google Build/OnePlus 8T29)
+
+Dalvik/61.61 (Linux; U; Android 8.1.0; Google Build/Galaxy A5061)
+
+Dalvik/4.4 (Linux; Android 10; Google Build/OnePlus 94)
+
+Dalvik/41.41 (Linux; U; Android 7.0; Xiaomi Build/SM-G960F41)
+
+Dalvik/41.41 (Linux; U; Android 8.1.0; OnePlus Build/Galaxy A5141)
+
+Dalvik/31.31 (Linux; U; Android 10; Samsung Build/OnePlus 731)
+
+Dalvik/26.26 (Linux; U; Android 7.0; Sony Build/Xperia Z526)
+
+Dalvik/60.60 (Linux; Android 8.0.0; Xiaomi Build/SM-G970F60)
+
+Dalvik/58.58 (Linux; Android 10; Samsung Build/OnePlus 958)
+
+Dalvik/51.51 (Linux; Android 7.0; Samsung Build/Galaxy A5151)
+
+Dalvik/30.30 (Linux; Android 11; Samsung Build/HTC U1130)
+
+Dalvik/85.85 (Linux; U; Android 10; Huawei Build/Google Pixel 2 XL85)
+
+Dalvik/84.84 (Linux; U; Android 7.1.1; Huawei Build/SM-G975F84)
+
+Dalvik/62.62 (Linux; Android 8.0.0; LG Build/HTC U12+62)
+
+Dalvik/9.9 (Linux; U; Android 8.0.0; Google Build/HTC One M99)
+
+Dalvik/3.3 (Linux; Android 7.0; Google Build/Google Pixel 33)
+
+Dalvik/30.30 (Linux; U; Android 7.0; Google Build/OnePlus 8T30)
+
+Dalvik/42.42 (Linux; U; Android 8.1.0; LG Build/SM-G950F42)
+
+Dalvik/36.36 (Linux; U; Android 9; Google Build/Xperia Z536)
+
+Dalvik/61.61 (Linux; U; Android 11; Google Build/LG V50 ThinQ61)
+
+Dalvik/79.79 (Linux; U; Android 10; LG Build/OnePlus 779)
+
+Dalvik/17.17 (Linux; U; Android 10; HTC Build/Mate 20 Pro17)
+
+Dalvik/28.28 (Linux; Android 7.1.1; Google Build/Google Pixel XL28)
+
+Dalvik/11.11 (Linux; Android 10; Sony Build/HTC 1011)
+
+Dalvik/14.14 (Linux; U; Android 10; Google Build/HTC U1114)
+
+Dalvik/51.51 (Linux; Android 8.0.0; Samsung Build/Galaxy S1051)
+
+Dalvik/23.23 (Linux; Android 7.1.1; Google Build/Google Pixel23)
+
+Dalvik/41.41 (Linux; Android 9; OnePlus Build/Google Pixel 341)
+
+Dalvik/50.50 (Linux; Android 9; LG Build/HTC One M850)
+
+Dalvik/69.69 (Linux; Android 11; Google Build/HTC U1169)
+
+Dalvik/73.73 (Linux; Android 7.0; Xiaomi Build/Google Pixel XL73)
+
+Dalvik/24.24 (Linux; U; Android 11; Google Build/OnePlus 7T24)
+
+Dalvik/12.12 (Linux; Android 10; Google Build/SM-G980F12)
+
+Dalvik/74.74 (Linux; Android 10; Xiaomi Build/SM-N970F74)
+
+Dalvik/28.28 (Linux; Android 10; HTC Build/Galaxy A7028)
+
+Dalvik/77.77 (Linux; Android 8.1.0; LG Build/Mi 1077)
+
+Dalvik/45.45 (Linux; U; Android 7.0; Google Build/OnePlus 745)
+
+Dalvik/90.90 (Linux; Android 10; Google Build/SM-N985F90)
+
+Dalvik/68.68 (Linux; Android 11; Xiaomi Build/HTC One M968)
+
+Dalvik/26.26 (Linux; Android 7.1.1; Huawei Build/SM-G975F26)
+
+Dalvik/52.52 (Linux; U; Android 7.0; LG Build/SM-G950F52)
+
+Dalvik/48.48 (Linux; U; Android 7.1.1; OnePlus Build/LG G648)
+
+Dalvik/21.21 (Linux; U; Android 8.0.0; LG Build/SM-N970F21)
+
+Dalvik/41.41 (Linux; Android 8.0.0; LG Build/HTC 1041)
+
+Dalvik/72.72 (Linux; U; Android 9; Huawei Build/OnePlus 7T72)
+
+Dalvik/91.91 (Linux; U; Android 8.0.0; LG Build/Google Pixel XL91)
+
+Dalvik/7.7 (Linux; Android 8.1.0; Xiaomi Build/Mi 107)
+
+Dalvik/63.63 (Linux; Android 8.0.0; Google Build/Xperia XZ363)
+
+Dalvik/2.2 (Linux; Android 8.0.0; Google Build/Mi 112)
+
+Dalvik/96.96 (Linux; U; Android 9; Google Build/SM-G970F96)
+
+Dalvik/70.70 (Linux; U; Android 7.0; OnePlus Build/OnePlus 970)
+
+Dalvik/20.20 (Linux; Android 7.0; OnePlus Build/Galaxy S2020)
+
+Dalvik/17.17 (Linux; U; Android 10; Huawei Build/LG G7 ThinQ17)
+
+Dalvik/25.25 (Linux; U; Android 10; Huawei Build/P20 Pro25)
+
+Dalvik/92.92 (Linux; U; Android 11; Xiaomi Build/OnePlus 992)
+
+Dalvik/47.47 (Linux; U; Android 8.0.0; LG Build/SM-G920F47)
+
+Dalvik/49.49 (Linux; Android 8.1.0; HTC Build/Redmi Note 949)
+
+Dalvik/36.36 (Linux; Android 11; LG Build/Mate 20 Pro36)
+
+Dalvik/58.58 (Linux; Android 7.1.1; Xiaomi Build/Mate 30 Pro58)
+
+Dalvik/4.4 (Linux; U; Android 8.1.0; Sony Build/P30 Pro4)
+
+Dalvik/46.46 (Linux; U; Android 8.0.0; Sony Build/SM-N960F46)
+
+Dalvik/13.13 (Linux; Android 8.1.0; Google Build/SM-N950F13)
+
+Dalvik/76.76 (Linux; Android 11; Huawei Build/SM-N980F76)
+
+Dalvik/15.15 (Linux; Android 11; Samsung Build/Galaxy A7115)
+
+Dalvik/4.4 (Linux; U; Android 11; Huawei Build/Galaxy A504)
+
+Dalvik/25.25 (Linux; U; Android 9; Huawei Build/Galaxy S2025)
+
+Dalvik/20.20 (Linux; Android 8.0.0; Google Build/OnePlus 8T20)
+
+Dalvik/29.29 (Linux; U; Android 8.1.0; Xiaomi Build/HTC One M929)
+
+Dalvik/3.3 (Linux; U; Android 7.1.1; Sony Build/Redmi Note 83)
+
+Dalvik/72.72 (Linux; Android 8.0.0; Sony Build/Galaxy A8072)
+
+Dalvik/27.27 (Linux; Android 9; OnePlus Build/Redmi Note 827)
+
+Dalvik/37.37 (Linux; Android 8.1.0; Huawei Build/Google Pixel 337)
+
+Dalvik/16.16 (Linux; Android 11; Sony Build/SM-G980F16)
+
+Dalvik/82.82 (Linux; Android 9; Google Build/HTC U1182)
+
+Dalvik/5.5 (Linux; Android 7.0; LG Build/SM-N975F5)
+
+Dalvik/33.33 (Linux; U; Android 9; LG Build/SM-N985F33)
+
+Dalvik/37.37 (Linux; U; Android 9; Sony Build/Xperia XZ337)
+
+Dalvik/33.33 (Linux; U; Android 7.0; Google Build/Google Pixel33)
+
+Dalvik/45.45 (Linux; U; Android 11; LG Build/Google Pixel 2 XL45)
+
+Dalvik/95.95 (Linux; U; Android 11; Google Build/Google Pixel 395)
+
+Dalvik/29.29 (Linux; Android 10; Sony Build/Redmi Note 1029)
+
+Dalvik/27.27 (Linux; U; Android 9; Xiaomi Build/Google Pixel27)
+
+Dalvik/27.27 (Linux; U; Android 8.1.0; Samsung Build/SM-N975F27)
+
+Dalvik/40.40 (Linux; Android 9; Samsung Build/Galaxy A7040)
+
+Dalvik/8.8 (Linux; Android 9; HTC Build/Redmi Note 88)
+
+Dalvik/44.44 (Linux; U; Android 10; Sony Build/Mi 1144)
+
+Dalvik/13.13 (Linux; Android 7.1.1; Google Build/LG V3013)
+
+Dalvik/7.7 (Linux; Android 7.0; LG Build/LG V50 ThinQ7)
+
+Dalvik/1.1 (Linux; U; Android 11; LG Build/Nexus 6P1)
+
+Dalvik/62.62 (Linux; U; Android 7.1.1; Samsung Build/P20 Pro62)
+
+Dalvik/96.96 (Linux; U; Android 11; Google Build/Google Pixel 3 XL96)
+
+Dalvik/38.38 (Linux; Android 8.0.0; HTC Build/Google Pixel XL38)
+
+Dalvik/47.47 (Linux; U; Android 8.0.0; LG Build/LG V50 ThinQ47)
+
+Dalvik/78.78 (Linux; Android 8.1.0; Sony Build/P20 Pro78)
+
+Dalvik/60.60 (Linux; Android 7.1.1; Xiaomi Build/LG V40 ThinQ60)
+
+Dalvik/23.23 (Linux; U; Android 11; LG Build/SM-G980F23)
+
+Dalvik/15.15 (Linux; U; Android 7.0; Google Build/Google Pixel XL15)
+
+Dalvik/33.33 (Linux; Android 7.0; OnePlus Build/Galaxy A5133)
+
+Dalvik/41.41 (Linux; U; Android 8.0.0; Xiaomi Build/Redmi Note 841)
+
+Dalvik/49.49 (Linux; Android 8.1.0; Google Build/HTC 1049)
+
+Dalvik/61.61 (Linux; Android 7.1.1; LG Build/Google Pixel 2 XL61)
+
+Dalvik/71.71 (Linux; Android 8.1.0; Google Build/SM-N975F71)
+
+Dalvik/35.35 (Linux; Android 11; Google Build/Google Pixel 2 XL35)
+
+Dalvik/79.79 (Linux; Android 11; LG Build/Galaxy A7079)
+
+Dalvik/61.61 (Linux; U; Android 8.0.0; Samsung Build/Xperia 161)
+
+Dalvik/88.88 (Linux; Android 9; LG Build/Mi 988)
+
+Dalvik/26.26 (Linux; Android 8.0.0; LG Build/SM-G970F26)
+
